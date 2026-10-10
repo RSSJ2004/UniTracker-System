@@ -1,0 +1,17 @@
+# --- Backend ---
+backend/.env
+backend/storageState.json
+backend/node_modules/
+backend/dist/
+backend/.auth/
+
+# --- Android / Gradle ---
+app/local.properties
+app/.gradle/
+app/build/
+app/.idea/
+app/*.iml
+
+# --- Sistema operativo ---
+.DS_Store
+Thumbs.db

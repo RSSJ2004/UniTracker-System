@@ -1,0 +1,565 @@
+{
+  "cookies": [
+    {
+      "name": "ApplicationGatewayAffinityCORS",
+      "value": "7b0694e4d3f60c3fca1d83b5fa091d67",
+      "domain": "campusvirtual.intec.edu.do",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ApplicationGatewayAffinity",
+      "value": "7b0694e4d3f60c3fca1d83b5fa091d67",
+      "domain": "campusvirtual.intec.edu.do",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.2033615149.1791661935",
+      "domain": ".intec.edu.do",
+      "path": "/",
+      "expires": 1807213935.106081,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "esctx-ehmHQpb2KkI",
+      "value": "AQABCQEAAAA9VeaV3ywaSLp1O3c4_Et5RXZvU3RzQXJ0aWZhY3RzDQAAAAAAaEBaYJSNtSru8zdL7JYx8Sw1NXTFLlS_OolWmyoq08EE6oR1OUpSrRrrjSTZmwD3ZTUOMT9y3JOooknVtpecp2ZMLgJzRH_d9lWIW3SPZE02XW19g7vc11ZZvAVBU0lIv8vrmvVvB_nwLHVR1l_F0CAA",
+      "domain": ".login.microsoftonline.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "x-ms-gateway-slice",
+      "value": "estsfd",
+      "domain": "login.microsoftonline.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "stsservicecookie",
+      "value": "estsfd",
+      "domain": "login.microsoftonline.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AADSSO",
+      "value": "NA|NoExtension",
+      "domain": ".login.microsoftonline.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "esctx-QP9t2aUExk",
+      "value": "AQABCQEAAAA9VeaV3ywaSLp1O3c4_Et5RXZvU3RzQXJ0aWZhY3RzDQAAAAAAvEatqDMpIJfaMMeGd3rCz4u1h-FEkVTeYu4N1ewlObcXbOiHkyfUjwlTw7GmoKE5O3niRhQULrmiy1PoKQK7r_1i6EoR0WH2PszBPBjjOxOINYC_OWMp2udsSOIHwyU3h-k9aiDR7-wGq1mago0qgiAA",
+      "domain": ".login.microsoftonline.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "brcap",
+      "value": "0",
+      "domain": ".login.microsoftonline.com",
+      "path": "/",
+      "expires": 1807213938.136522,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "wlidperf",
+      "value": "FR=L&ST=1791661952646",
+      "domain": ".microsoftonline.com",
+      "path": "/",
+      "expires": 1807213952.646432,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ESTSAUTHLIGHT",
+      "value": "+009a250a-a0b5-0c50-0cb5-56311610267a",
+      "domain": "login.microsoftonline.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "esctx-wwpsgcZKgpI",
+      "value": "AQABCQEAAAA9VeaV3ywaSLp1O3c4_Et5RXZvU3RzQXJ0aWZhY3RzDQAAAAAAs5OUmoTGBEtudEQsQYIh8ZzJLhrK4hbXzCsjfGfobvBboTp5FDCmrLFz-ky0EN691H3N7Yr7vNKRFdAmmTf_SEpE4EUXQVpCgdo730IdHvX61TA63cpisbisnTGla4cVthDAXk7NzFcQQpE385uu3yAA",
+      "domain": ".login.microsoftonline.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "esctx-IB4VVZQQaNo",
+      "value": "AQABCQEAAAA9VeaV3ywaSLp1O3c4_Et5RXZvU3RzQXJ0aWZhY3RzDQAAAAAAsH2y-02jjGjuf3hnhRjYYBTWYiT8Y2fxM0PPzG-Y8t8GWT42O5WMRJ5xvCZ2QjO720Oo6MeJsPBUEPoppma8eG_F6qLOlfP092p9BgV0Fmu_KhbH5J1f9A4JE-agJXiHbAcp_g8KePKqUVleARBdzSAA",
+      "domain": ".login.microsoftonline.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "esctx",
+      "value": "PBgABBwEAAAA9VeaV3ywaSLp1O3c4_Et5RXZvU3RzQXJ0aWZhY3RzDQAAAAAAr0GWlZ36Gwe6fhc5HhMYTO2ZEWeDG_F1Uc53BJRPBT21m6fLXsw_238HXvrWVSdFjYOaDKM0UqjMvkyq7ylXeCR91Wetea3u-j7mXJlOxrKHsBbHxbuEV50VcY_AYGYdq9PBAhlspDkHVi1q1dPgmfAzSayq01rFudU0GXxRGV-qQv0ZkVKcSMc7nLepsw2fV_nVUkF8M_rA0ANj5OYrYigMga5EX8VmE-1b26w5wG4Gc6MQTk7-bPdBfnAiy5ZPpCFQoSQLomC8rNJJHYCJtbTP405KNIFl64dAWToz0LdRWXA4S0ynaYUDbkuxMdwpyO6ilkMSWxbXJJRgAmp7fchQz4b8qgzGvU7z7TdK0AD_LJ58EDvzMQfZFmkL231h6z1ld55K9PbTx0b4XL0ufLYiTvCoyNLtYotpJFsgrSfLX3TobeNW-SjrQQpfjVqAwfwoWaowPVjoB3KdhSuHzbhjocY-rAdiDIXfSNiL1CQCGexxDkcjrEBaJdt0r1WG9B7Ed-8SzJUdor60rxYMYXOiMUE4-BZt17wMLZSOUC26-oJk0QIUOpd8p16945FFMXgwOs-d458t6P7fxrz4FlwrJmIukWOYWYvh8s6Ergo6SX4w3cG8c5hS_3objK4IG4emUn6ZYQbmeKSwjEWzpz0ipVPtRFh3PBGUljK0nD6lp6TFNY4PwzLP0_t_cVxCY1RGx9SUDGALYWQlSdv-351fp5AfEJi8uJsFt9hj7TAgAA",
+      "domain": ".login.microsoftonline.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "esctx-RzW3ByXUdeE",
+      "value": "AQABCQEAAAA9VeaV3ywaSLp1O3c4_Et5RXZvU3RzQXJ0aWZhY3RzDQAAAAAAvM-3EwlOMODG4wnL9AxBJ2vSlVoptUfDvXyYFsOwu1ZoluUDOAnbfxPmuE0vXoozH9yrcNZZ7rF5WKmwCS-TNrljlxcDYIGt4Ej1CBye7iyzEHeIhFrkJPHoWtTIUjw1LM1SavrV-KmHKgw6XpKaeCAA",
+      "domain": ".login.microsoftonline.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ESTSAUTHPERSISTENT",
+      "value": "1.AVcAHxhWaPjaJUesUd2fff4vKxfEWnpQ1hJHiCWTHRUncJ0AAABXAA.BQABFwQAAAADAOz_BQD0_0V2b1N0c0FydGlmYWN0cxAAAAAAADOnUivYKcymxQ4uwXyiSelshVf0a-MQnvL1NCokDllwywgpy3araALOwAcYutLFf3MMFg3H2XbGfV9PZoMbGqz87TcrXfvvg4SJRN3GXcq2W8ZweewmA2geHoZn8PXnBUnD31YCZ66yWXEKvGuNjsdD__vCcxXh_pMCVTYXwLKxVSLV7QAh1hVgwrPMtr7c928NLtn2gmipVRFNT755tIoyRuSI2NAdaQoCCK4-b9caH_LH0l2m9VVU1EAA94cCtLIFaf4W-c3aviZ0UCEdFgNluOgnuxaYq6AdIRylCJvVvJUjmo5TDtqwSuBSklGmY0Qa96uahB_gPCZFG8iIkkBdWbaoig5xZZrkNDDaRdMZnlpKDj3EVSI58Pz0692hD2S3GogGqMVyWqSo1ZiOw90VdW_WcnDZghshc7q7c0JQYN7AAdR1G8nf1tdjXRx1z0CippXu-aTZa8La3R5PPRGct5mXw3dHXgGSEiIRFJ2LGfvwEwoPd4prMGMyhbSZ7Ld1PTia9TbWgzG-yD07j4cL3EGZSx0zxr8Vr7WL_7EVNFyiC00BPPSRd1gRwGggQYun8HVxMEPFb4syybV4I0k2VWPiLJtdn5xRWNwIk9UOz2MDnshWBMiAy9yr-rO-XjOUEA0OSOvzZnecFkwyV5Gw1UN7-6uu1Ffb6dPcI5zc1tBJK9unlUG0K7Pj1YpNGoXvMGCr4_EDepc1P_HB0N66N00xRcOiAD-EPBDssaF2GLRKXQFmUKem2lsAY1B7AFLdcvnOwHS_l7muV7sdEQS3DXCsh2DTeRe-J3zSDil-hKAbzKWINEMU-ggJtWPAyJw6-Lons4c-WF7LNq7L-DoG4150AjUZrseAq5OXaA8RUzWmkkaf2wR2vm3mcqBWCbWu26TN-JEek-EHgwkeKcAPyq3de5uPSwbmRJK0lOQhWIysOfHjpYck8eOwHCBepMsJN6gQiOgOm-yRuVP2rxXdnm-bGQoNZGMGNBJDxPqYg98QFk8yxaPVdO_MJgteBXSQ3lf08nHs2Ev9ofzlexY0ALfsPoJbEGJZ9cc6VoyTb3wXs-1zXw1bZPw94FKC3kCj3yv8p4NdEWvJ-1czo4l-3JiDcptOsXMIXUc9HAcchU3tYJET5CeiHYYRk2p5l6tGkdlb3TpseU852dq6YRQHbXHugo5JJO6NnJx-wUH6kI2D7aR--8MGfbB9vP3MsjxYHhaI9yPK3MrK9VGIXfe9ljsKvTXaGt3ygMKBw6kvptgz2_ewc5Nu3wSs94UOTfroJlmsfolVsdS_MePf8LJvWTMB_07nh3ekDhVVxV3tehH8sHlMprBEzYmv0Th-r3EVmolkoXI4aBGqSPzZlZ2eQB8-FmWb",
+      "domain": ".login.microsoftonline.com",
+      "path": "/",
+      "expires": 1799437979.170918,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ESTSAUTH",
+      "value": "1.AVcAHxhWaPjaJUesUd2fff4vKxfEWnpQ1hJHiCWTHRUncJ0AAABXAA.",
+      "domain": ".login.microsoftonline.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "buid",
+      "value": "1.AVcAHxhWaPjaJUesUd2fff4vKxfEWnpQ1hJHiCWTHRUncJ0AAABXAA.BgABGgEAAAA9VeaV3ywaSLp1O3c4_Et5RXZvU3RzQXJ0aWZhY3RzAwAAAAAAQE2Kss2DPOzJPrXxeUG3C-pR0pJ4RGSO_68sWO5K6FUSTZX-58fPNT_hOcZIygf1PYF05gv9L8gCDSL1aGM_Q9OCSmGgev3RobZyqN-UeshhipIQiO1wAdCz4QxFnQ4AgJcMPm1oV2j8NJmYvUTVFJ-TyNRrh4_kFdsU0YhAbO7HiNP381XH1l64N9TGlIIhviY-0psuCSUATPEisVOU3J01ZPl9WEnXnd4HaN6wt_-83Za4w7kZH8EX0BZtQXKqWyBJaJrLONycKA45rQh4yFVij28AEIncsqqcAd_tc84Kl6gT921EnyS_s7funjxtUNkydxLUZw5oo8trhktlO1pWoiV9YI51lH84eetG8pHYke-GzvweKAS_Pm2BD8udSjLB408oOBVZ4dvf9HVlKloUN21-bZ8Snl9yXWa9EciXPEIhlmWMB4mN7JsAtMBQEd_G72E7eStMptH9GWfSfObPgkwOODgVta-LIf9cUzO2W6gTLXlHVuLbCeZ6RtB3XvsB1_0WMeqP26vQPusFK8fFo0EjP15qGvYj2PNnHRLBodiF4hlFvNLM14qDdybVtMbMdY1IvzMd7CPL9IyqS5xDuDeCnYwwsr3pJ88t00jOAiDBD1sataRTInrEBnNJz4Ei7H-mFoeFrwlf1reAFW-joGqlRGzJKZ_anRFuUpQSqyNHQ6WcJc-6YMevfgh2pdzqIDxGRh6G837o0Fy7lIb4DDAjtKcKqARfxulX-BMgAA",
+      "domain": "login.microsoftonline.com",
+      "path": "/",
+      "expires": 1794253979.171144,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CCState",
+      "value": "RWhJS0VPT0krY1p0M2FoTWtEc3lyQklabUhVPQ==",
+      "domain": ".login.microsoftonline.com",
+      "path": "/",
+      "expires": 1792525979.171221,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SignInStateCookie",
+      "value": "CBQABFgIAAAADAOz_BQD0_0V2b1N0c0FydGlmYWN0cwYAAAAAACq0O0F3mHRCrP6S5XT7BdhmB46hqC3RkX_JEqIP8bCYxmdXSibKfNkIJZmxUKoqI0saQfejBUXtoevMpMtPjKknPGgP7l5QjAxZvVYlM_hPCluy-WXXddB7jyRy3bAnLlJAiVEgoMF9vxYM_3DqjJcKHA5dIt_FStVYvwsjLrrYUTlRAivmoTq47J3D2tJ1iBsFWD7OypIhtqJHKEvptkQy7zmGDc__4lLWTvqyrYnFtvWgmrJcGA9t1ruWerev0j7wikaBXFLFatvL9rS1RDG03fvpPVPaw5MZIK-nQxAbap7rVvtVKm6Tov_E1vVhKSqjvaKqj_pC0wmlcDb8h83eIFpRYTCIbivoDQl6C9nkqNE5-k6ZdePBG1aKMM-1tLMJln3TsIwd24kIVntYNLNfQaejHF5JvkJjwXX5B_FX_j7mcYcJYmCR1Q79QUy5wVZZr32G3r78u0Y0d9VliKoYaRj4Ke3BnelabSokGyih-rG_fXO48eFXrii7BgzUbX9dKXSU1dDwwLiPnwKkG8IQGZOm0v8lczCQmgqX_e2pPVJYYoiDEBAtV184gQ19SAx6A3D0Ek86GtIhfUCbRIDZN4bPIypatzXaHRT6jp4Z1Ek07YW3dIKDE2yHFVupU4IZH2vJHjIGl_mdT_N4zdL2VeGBZKumpaHBK7IgmDdHlRbOCg_7WJlPYa1NS4qR8Yu7jtWXVfE7hc7duEPtVnoyKzgtMSXZYjL7laPEgjGf-zn3Qq0W5YE-sTaLd1p7_0HfCD-bEQNvhHjlu17Mq_kPQXzG6NzgpHBI",
+      "domain": ".login.microsoftonline.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "fpc",
+      "value": "AuKRzFCCroFLil1ATtLQfy2g93CGAQAAAHCOXOIOAAAAqzbtRQEAAAB_jlziDgAAAISHXtEDAAAAko5c4g4AAAA",
+      "domain": "login.microsoftonline.com",
+      "path": "/",
+      "expires": 1794253979.171304,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MoodleSession",
+      "value": "lr7qj7qd7ujmhdl7glroj6l7ls",
+      "domain": "campusvirtual.intec.edu.do",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_6FX602WQBK",
+      "value": "GS2.1.s1791661935$o1$g1$t1791662001$j60$l0$h0",
+      "domain": ".intec.edu.do",
+      "path": "/",
+      "expires": 1807214001.012988,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://campusvirtual.intec.edu.do",
+      "localStorage": [
+        {
+          "name": "1844975757/core_str/removefromfavourites/block_myoverview/es",
+          "value": "Quitar estrella a este curso"
+        },
+        {
+          "name": "1844975757/core_str/strftimedatetime/core_langconfig/es",
+          "value": "%d de %B de %Y, %H:%M"
+        },
+        {
+          "name": "1844975757/core_str/strftimetime24/core_langconfig/es",
+          "value": "%H:%M"
+        },
+        {
+          "name": "1844975757/core_template/1785161947:edutor/core/paged_content_paging_dropdown",
+          "value": "\n\n<div class=\"dropdown mb-1\"\n    id=\"paging-dropdown-{{uniqid}}\"\n    data-region=\"paging-dropdown-container\">\n\n    <button class=\"btn btn-secondary dropdown-toggle\"\n        id=\"paging-dropdown-menu-button-{{uniqid}}\"\n        type=\"button\"\n        data-region=\"dropdown-toggle\"\n        data-bs-toggle=\"dropdown\"\n        aria-haspopup=\"true\"\n        aria-expanded=\"false\">\n\n        {{#options}}\n            {{#active}}\n                {{{content}}}\n            {{/active}}\n        {{/options}}\n    </button>\n    <div class=\"dropdown-menu\" aria-labelledby=\"paging-dropdown-menu-button-{{uniqid}}\">\n        {{#options}}\n            {{> core/paged_content_paging_dropdown_item }}\n        {{/options}}\n        {{< core/paged_content_paging_dropdown_item }}\n            {{$itemcount}}0{{/itemcount}}\n            {{$content}}{{#str}} all {{/str}}{{/content}}\n        {{/ core/paged_content_paging_dropdown_item }}\n    </div>\n</div>\n"
+        },
+        {
+          "name": "1844975757/core_template/1785161947:edutor/block_timeline/event-list-items",
+          "value": "\n\n<div class=\"list-group list-group-flush\">\n{{#events}}\n    {{> block_timeline/event-list-item }}\n{{/events}}\n</div>\n"
+        },
+        {
+          "name": "1844975757/core_str/aria:coursecategory/core_course/es",
+          "value": "Categoría del curso"
+        },
+        {
+          "name": "1844975757/core_str/moreevents/calendar/es",
+          "value": "{$a} más"
+        },
+        {
+          "name": "1844975757/core_template/1785161947:edutor/core/paged_content_paging_bar",
+          "value": "\n\n<div\n    data-region=\"paging-control-container\"\n    class=\"d-flex\"\n>\n    {{#showitemsperpageselector}}\n        <div\n            id=\"paging-control-limit-container-{{uniqid}}\"\n            data-region=\"paging-control-limit-container\"\n            class=\"d-inline-flex align-items-center\"\n        >\n            <span class=\"me-1\">{{#str}} show {{/str}}</span>\n            <div class=\"btn-group\">\n                <button\n                    type=\"button\"\n                    class=\"btn btn-outline-secondary dropdown-toggle\"\n                    data-bs-toggle=\"dropdown\"\n                    aria-haspopup=\"true\"\n                    aria-expanded=\"false\"\n                    data-action=\"limit-toggle\"\n                    {{#arialabels.itemsperpage}}\n                        aria-label=\"{{.}}\"\n                    {{/arialabels.itemsperpage}}\n                    {{^arialabels.itemsperpage}}\n                        aria-label=\"{{#str}} pagedcontentpagingbaritemsperpage, core, {{#itemsperpage}}{{#active}}{{#value}}{{.}}{{/value}}{{^value}}{{#str}} all, core {{/str}}{{/value}}{{/active}}{{/itemsperpage}}{{/str}}\"\n                    {{/arialabels.itemsperpage}}\n                >\n                    {{#itemsperpage}}\n                        {{#active}}\n                            {{#value}}{{.}}{{/value}}\n                            {{^value}}{{#str}} all, core {{/str}}{{/value}}\n                        {{/active}}\n                    {{/itemsperpage}}\n                </button>\n                <div\n                    role=\"menu\"\n                    class=\"dropdown-menu\"\n                    data-show-active-item\n                    data-skip-active-class=\"true\"\n                    {{#arialabels.itemsperpagecomponents}}\n                        data-active-item-button-aria-label-components=\"{{.}}\"\n                    {{/arialabels.itemsperpagecomponents}}\n                    {{^arialabels.itemsperpagecomponents}}\n                        data-active-item-button-aria-label-components=\"pagedcontentpagingbaritemsperpage, core\"\n                    {{/arialabels.itemsperpagecomponents}}\n                >\n                    {{#itemsperpage}}\n                        <a\n                            class=\"dropdown-item {{#active}}active{{/active}}\"\n                            href=\"#\"\n                            data-limit=\"{{value}}\"\n                            role=\"menuitem\"\n                            {{#active}}aria-current=\"true\"{{/active}}\n                        >\n                            {{#value}}{{.}}{{/value}}\n                            {{^value}}{{#str}} all, core {{/str}}{{/value}}\n                        </a>\n                    {{/itemsperpage}}\n                </div>\n            </div>\n        </div>\n    {{/showitemsperpageselector}}\n\n    <nav\n        id=\"{{$pagingbarid}}paging-bar-{{uniqid}}{{/pagingbarid}}\"\n        class=\"{{#showitemsperpageselector}}ms-auto{{/showitemsperpageselector}}\"\n        data-region=\"paging-bar\"\n        data-ignore-control-while-loading=\"{{ignorecontrolwhileloading}}\"\n        data-hide-control-on-single-page=\"{{hidecontrolonsinglepage}}\"\n        {{#activepagenumber}}\n            data-active-page-number=\"{{.}}\"\n        {{/activepagenumber}}\n        {{^activepagenumber}}\n            data-active-page-number=\"1\"\n        {{/activepagenumber}}\n        {{#itemsperpage}}\n            {{#active}}\n                data-items-per-page=\"{{value}}\"\n            {{/active}}\n        {{/itemsperpage}}\n        {{#arialabels.paginationnav}}\n            aria-label=\"{{.}}\"\n        {{/arialabels.paginationnav}}\n        {{^arialabels.paginationnav}}\n            aria-label=\"{{#str}} pagedcontentnavigation, core {{/str}}\"\n        {{/arialabels.paginationnav}}\n        {{#arialabels.paginationnavitemcomponents}}\n            data-aria-label-components-pagination-item=\"{{.}}\"\n        {{/arialabels.paginationnavitemcomponents}}\n        {{^arialabels.paginationnavitemcomponents}}\n            data-aria-label-components-pagination-item=\"pagedcontentnavigationitem, core\"\n        {{/arialabels.paginationnavitemcomponents}}\n        {{#arialabels.paginationactivenavitemcomponents}}\n            data-aria-label-components-pagination-active-item=\"{{.}}\"\n        {{/arialabels.paginationactivenavitemcomponents}}\n        {{^arialabels.paginationactivenavitemcomponents}}\n            data-aria-label-components-pagination-active-item=\"pagedcontentnavigationactiveitem, core\"\n        {{/arialabels.paginationactivenavitemcomponents}}\n        {{#barsize}}\n            data-bar-size=\"{{.}}\"\n        {{/barsize}}\n    >\n\n        <ul class=\"pagination mb-0\">\n            {{#previous}}\n                {{< core/paged_content_paging_bar_item }}\n                    {{$linkattributes}}aria-label=\"{{#str}}previouspage{{/str}}\"{{/linkattributes}}\n                    {{$item-content}}\n                        <span class=\"icon-no-margin dir-rtl-hide\" aria-hidden=\"true\">{{#pix}} i/previous, core {{/pix}}</span>\n                        <span class=\"icon-no-margin dir-ltr-hide\" aria-hidden=\"true\">{{#pix}} i/next, core {{/pix}}</span>\n                    {{/item-content}}\n                    {{$attributes}}data-control=\"previous\"{{/attributes}}\n                {{/ core/paged_content_paging_bar_item }}\n            {{/previous}}\n            {{#first}}\n                {{< core/paged_content_paging_bar_item }}\n                    {{$linkattributes}}aria-label=\"{{#str}}firstpage{{/str}}\"{{/linkattributes}}\n                    {{$item-content}}\n                        {{#str}}first{{/str}}\n                    {{/item-content}}\n                    {{$attributes}}data-control=\"first\"{{/attributes}}\n                {{/ core/paged_content_paging_bar_item }}\n            {{/first}}\n            {{#barsize}}\n                {{< core/paged_content_paging_bar_item }}\n                    {{$linkattributes}}aria-hidden=\"true\"{{/linkattributes}}\n                    {{$item-content}}\n                        &hellip;\n                    {{/item-content}}\n                    {{$attributes}}data-dots=\"beginning\"{{/attributes}}\n                {{/ core/paged_content_paging_bar_item }}\n            {{/barsize}}\n            {{#pages}}\n                {{< core/paged_content_paging_bar_item }}\n                    {{$attributes}}data-page=\"true\"{{/attributes}}\n                {{/ core/paged_content_paging_bar_item }}\n            {{/pages}}\n            {{#barsize}}\n                {{< core/paged_content_paging_bar_item }}\n                    {{$linkattributes}}aria-hidden=\"true\"{{/linkattributes}}\n                    {{$item-content}}\n                        &hellip;\n                    {{/item-content}}\n                    {{$attributes}}data-dots=\"ending\"{{/attributes}}\n                {{/ core/paged_content_paging_bar_item }}\n            {{/barsize}}\n            {{#last}}\n                {{< core/paged_content_paging_bar_item }}\n                    {{$linkattributes}}aria-label=\"{{#str}}lastpage{{/str}}\"{{/linkattributes}}\n                    {{$item-content}}\n                        {{#str}}last{{/str}}\n                    {{/item-content}}\n                    {{$attributes}}data-control=\"last\"{{/attributes}}\n                {{/ core/paged_content_paging_bar_item }}\n            {{/last}}\n            {{#next}}\n                {{< core/paged_content_paging_bar_item }}\n                    {{$linkattributes}}aria-label=\"{{#str}}nextpage{{/str}}\"{{/linkattributes}}\n                    {{$item-content}}\n                        <span class=\"icon-no-margin dir-rtl-hide\" aria-hidden=\"true\">{{#pix}} i/next, core {{/pix}}</span>\n                        <span class=\"icon-no-margin dir-ltr-hide\" aria-hidden=\"true\">{{#pix}} i/previous, core {{/pix}}</span>\n                    {{/item-content}}\n                    {{$attributes}}data-control=\"next\"{{/attributes}}\n                {{/ core/paged_content_paging_bar_item }}\n            {{/next}}\n        </ul>\n    </nav>\n</div>\n"
+        },
+        {
+          "name": "1844975757/core_str/addtofavourites/block_myoverview/es",
+          "value": "Destacar este curso"
+        },
+        {
+          "name": "1844975757/core_str/deleteoneevent/core_calendar/es",
+          "value": "Eliminar este evento"
+        },
+        {
+          "name": "1844975757/core_template/1785161947:edutor/core/modal",
+          "value": "\n\n\n<div class=\"modal moodle-has-zindex\" data-region=\"modal-container\" aria-hidden=\"true\" role=\"dialog\" aria-modal=\"true\" aria-labelledby=\"{{uniqid}}-modal-title\">\n    <div class=\"modal-dialog {{$classes}}{{classes}}{{/classes}}\" data-region=\"modal\" tabindex=\"0\">\n        <div class=\"modal-content\">\n            <div class=\"modal-header {{$headerclasses}}{{headerclasses}}{{/headerclasses}}\" data-region=\"header\">\n\n                {{$header}}\n                    <h5 id=\"{{uniqid}}-modal-title\" class=\"modal-title\" data-region=\"title\">{{$title}}{{title}}{{/title}}</h5>\n                {{/header}}\n                <button type=\"button\" class=\"btn-close\" data-action=\"hide\" aria-label=\"{{#cleanstr}}closebuttontitle{{/cleanstr}}\"></button>\n            </div>\n            <div class=\"modal-body\" data-region=\"body\">\n                {{$body}}\n                    {{{body}}}\n                {{/body}}\n            </div>\n            <div class=\"modal-footer\" data-region=\"footer\">\n                {{$footer}}\n                    {{{footer}}}\n                {{/footer}}\n            </div>\n        </div>\n    </div>\n</div>\n"
+        },
+        {
+          "name": "1844975757/core_str/favourite/core_course/es",
+          "value": "Curso destacado"
+        },
+        {
+          "name": "loglevel",
+          "value": "WARN"
+        },
+        {
+          "name": "1844975757/core_str/loading/core/es",
+          "value": "Cargando"
+        },
+        {
+          "name": "1844975757/core_str/overdue/block_timeline/es",
+          "value": "Atrasados"
+        },
+        {
+          "name": "1844975757/core_str/savechanges/core/es",
+          "value": "Guardar cambios"
+        },
+        {
+          "name": "1844975757/core_str/showmore/core_form/es",
+          "value": "Mostrar más..."
+        },
+        {
+          "name": "1844975757/core_str/aria:courseactions/block_myoverview/es",
+          "value": "Acciones para curso actual"
+        },
+        {
+          "name": "1844975757/media_videojs/es",
+          "value": "{\n  \"Play\": \"Reproducir\",\n  \"Play Video\": \"Reproducir Vídeo\",\n  \"Pause\": \"Pausa\",\n  \"Current Time\": \"Tiempo reproducido\",\n  \"Duration\": \"Duración total\",\n  \"Remaining Time\": \"Tiempo restante\",\n  \"Stream Type\": \"Tipo de secuencia\",\n  \"LIVE\": \"DIRECTO\",\n  \"Loaded\": \"Cargado\",\n  \"Progress\": \"Progreso\",\n  \"Fullscreen\": \"Pantalla completa\",\n  \"Exit Fullscreen\": \"Pantalla no completa\",\n  \"Mute\": \"Desactivar el sonido\",\n  \"Unmute\": \"Activar el sonido\",\n  \"Playback Rate\": \"Velocidad de reproducción\",\n  \"Subtitles\": \"Subtítulos\",\n  \"subtitles off\": \"Subtítulos desactivados\",\n  \"Captions\": \"Subtítulos especiales\",\n  \"captions off\": \"Subtítulos especiales desactivados\",\n  \"Chapters\": \"Capítulos\",\n  \"You aborted the media playback\": \"Ha interrumpido la reproducción del vídeo.\",\n  \"A network error caused the media download to fail part-way.\": \"Un error de red ha interrumpido la descarga del vídeo.\",\n  \"The media could not be loaded, either because the server or network failed or because the format is not supported.\": \"No se ha podido cargar el vídeo debido a un fallo de red o del servidor o porque el formato es incompatible.\",\n  \"The media playback was aborted due to a corruption problem or because the media used features your browser did not support.\": \"La reproducción de vídeo se ha interrumpido por un problema de corrupción de datos o porque el vídeo precisa funciones que su navegador no ofrece.\",\n  \"No compatible source was found for this media.\": \"No se ha encontrado ninguna fuente compatible con este vídeo.\",\n  \"Audio Player\": \"Reproductor de audio\",\n  \"Video Player\": \"Reproductor de video\",\n  \"Replay\": \"Volver a reproducir\",\n  \"Seek to live, currently behind live\": \"Buscar en vivo, actualmente demorado con respecto a la transmisión en vivo\",\n  \"Seek to live, currently playing live\": \"Buscar en vivo, actualmente reproduciendo en vivo\",\n  \"Progress Bar\": \"Barra de progreso\",\n  \"progress bar timing: currentTime={1} duration={2}\": \"{1} de {2}\",\n  \"Descriptions\": \"Descripciones\",\n  \"descriptions off\": \"descripciones desactivadas\",\n  \"Audio Track\": \"Pista de audio\",\n  \"Volume Level\": \"Nivel de volumen\",\n  \"The media is encrypted and we do not have the keys to decrypt it.\": \"El material audiovisual está cifrado y no tenemos las claves para descifrarlo.\",\n  \"Close\": \"Cerrar\",\n  \"Modal Window\": \"Ventana modal\",\n  \"This is a modal window\": \"Esta es una ventana modal\",\n  \"This modal can be closed by pressing the Escape key or activating the close button.\": \"Esta ventana modal puede cerrarse presionando la tecla Escape o activando el botón de cierre.\",\n  \", opens captions settings dialog\": \", abre el diálogo de configuración de leyendas\",\n  \", opens subtitles settings dialog\": \", abre el diálogo de configuración de subtítulos\",\n  \", selected\": \", seleccionado\",\n  \"Close Modal Dialog\": \"Cierra cuadro de diálogo modal\",\n  \", opens descriptions settings dialog\": \", abre el diálogo de configuración de las descripciones\",\n  \"captions settings\": \"configuración de leyendas\",\n  \"subtitles settings\": \"configuración de subtítulos\",\n  \"descriptions settings\": \"configuración de descripciones\",\n  \"Text\": \"Texto\",\n  \"White\": \"Blanco\",\n  \"Black\": \"Negro\",\n  \"Red\": \"Rojo\",\n  \"Green\": \"Verde\",\n  \"Blue\": \"Azul\",\n  \"Yellow\": \"Amarillo\",\n  \"Magenta\": \"Magenta\",\n  \"Cyan\": \"Cian\",\n  \"Background\": \"Fondo\",\n  \"Window\": \"Ventana\",\n  \"Transparent\": \"Transparente\",\n  \"Semi-Transparent\": \"Semitransparente\",\n  \"Opaque\": \"Opaca\",\n  \"Font Size\": \"Tamaño de fuente\",\n  \"Text Edge Style\": \"Estilo de borde del texto\",\n  \"None\": \"Ninguno\",\n  \"Raised\": \"En relieve\",\n  \"Depressed\": \"Hundido\",\n  \"Uniform\": \"Uniforme\",\n  \"Drop shadow\": \"Sombra paralela\",\n  \"Font Family\": \"Familia de fuente\",\n  \"Proportional Sans-Serif\": \"Sans-Serif proporcional\",\n  \"Monospace Sans-Serif\": \"Sans-Serif monoespacio\",\n  \"Proportional Serif\": \"Serif proporcional\",\n  \"Monospace Serif\": \"Serif monoespacio\",\n  \"Casual\": \"Informal\",\n  \"Script\": \"Cursiva\",\n  \"Small Caps\": \"Minúsculas\",\n  \"Reset\": \"Restablecer\",\n  \"restore all settings to the default values\": \"restablece todas las configuraciones a los valores predeterminados\",\n  \"Done\": \"Listo\",\n  \"Caption Settings Dialog\": \"Diálogo de configuración de leyendas\",\n  \"Beginning of dialog window. Escape will cancel and close the window.\": \"Comienzo de la ventana de diálogo. La tecla Escape cancelará la operación y cerrará la ventana.\",\n  \"End of dialog window.\": \"Final de la ventana de diálogo.\",\n  \"{1} is loading.\": \"{1} se está cargando.\",\n  \"Exit Picture-in-Picture\": \"Salir de imagen sobre imagen\",\n  \"Picture-in-Picture\": \"Imagen sobre imagen\",\n  \"No content\": \"Sin contenido\",\n  \"Color\": \"Color\",\n  \"Opacity\": \"Opacidad\",\n  \"Text Background\": \"Fondo del texto\",\n  \"Caption Area Background\": \"Fondo del área de subtítulos\",\n  \"Skip forward {1} seconds\": \"Avanza {1} segundos\",\n  \"Skip backward {1} seconds\": \"Retrocede {1} segundos\"\n}\n"
+        },
+        {
+          "name": "1844975757/core_template/1785161947:edutor/core_course/coursecards",
+          "value": "\n\n\n<div class=\"card-grid mx-0 row row-cols-1 row-cols-sm-2 row-cols-lg-3 {{$classes}}{{/classes}}\" data-region=\"card-deck\" role=\"list\">\n{{#courses}}\n    <div class=\"col d-flex px-0 mb-2\">\n        {{> core_course/coursecard }}\n    </div>\n{{/courses}}\n</div>\n"
+        },
+        {
+          "name": "1844975757/core_str/save/core/es",
+          "value": "Guardar"
+        },
+        {
+          "name": "1844975757/core_template/1785161947:edutor/core/pix_icon_fontawesome",
+          "value": "\n\n{{^unmappedIcon}}\n<i class=\"icon {{key}} fa-fw {{extraclasses}}\"{{#aria-hidden}} aria-hidden=\"true\"{{/aria-hidden}} {{#title}} title=\"{{title}}\"{{/title}}{{^aria-hidden}}{{#alt}} role=\"img\" aria-label=\"{{alt}}\"{{/alt}}{{/aria-hidden}}></i>\n{{/unmappedIcon}}\n{{#unmappedIcon}}\n\n<img class=\"icon {{extraclasses}}\" {{#attributes}}{{name}}=\"{{value}}\" {{/attributes}}/>\n{{/unmappedIcon}}\n"
+        },
+        {
+          "name": "1844975757/core_template/1785161947:edutor/core_course/favouriteicon",
+          "value": "\n\n<span id=\"favorite-icon-{{ id }}-{{ uniqid }}\"\n    data-region=\"favourite-icon\"\n    data-course-id=\"{{id}}\"\n    >\n    <span\n        class=\"text-primary {{^isfavourite}}hidden{{/isfavourite}}\"\n        data-region=\"is-favourite\"\n        aria-hidden=\"{{^isfavourite}}true{{/isfavourite}}{{#isfavourite}}false{{/isfavourite}}\"\n        >\n        {{#pix}} i/star, core, {{#str}} favourite, core_course {{/str}} {{/pix}}\n        <span class=\"visually-hidden\">{{#str}} aria:favourite, core_course {{/str}}</span>\n    </span>\n</span>\n"
+        },
+        {
+          "name": "1844975757/core_str/aria:courseshortname/core_course/es",
+          "value": "Nombre corto del curso"
+        },
+        {
+          "name": "1844975757/core_template/1785161947:edutor/block_timeline/event-list-item",
+          "value": "\n\n<div class=\"list-group-item timeline-event-list-item flex-column pt-2 pb-0 border-0 {{#courseview}}px-0{{/courseview}}{{^courseview}}px-2{{/courseview}}\"\n        data-region=\"event-list-item\">\n    <div class=\"d-flex flex-wrap pb-1\">\n        <div class=\"d-flex me-auto pb-1 mw-100 timeline-name\">\n            <small class=\"text-end text-nowrap align-self-center ms-1\">\n                {{#userdate}} {{timesort}}, {{#str}} strftimetime24, core_langconfig {{/str}} {{/userdate}}\n            </small>\n            <div class=\"activityiconcontainer small courseicon align-self-top align-self-center mx-3  mb-1 mb-sm-0 text-nowrap\">\n                {{#icon}}\n                {{#iconurl}}\n                    <img alt=\"{{alttext}}\" title=\"{{alttext}}\" src=\"{{{ iconurl }}}\" class=\"icon {{iconclass}}\">\n                {{/iconurl}}\n                {{^iconurl}}\n                    {{#pix}} {{key}}, {{component}}, {{alttext}} {{/pix}}\n                {{/iconurl}}\n                {{/icon}}\n            </div>\n            <div class=\"event-name-container flex-grow-1 line-height-3 nowrap text-truncate\">\n                <div class=\"d-flex\">\n                    <h6 class=\"event-name mb-0 pb-1 text-truncate\">\n                        {{#overdue}}<span class=\"badge rounded-pill bg-danger text-white ms-1 float-end\">{{#str}} overdue, block_timeline {{/str}}</span>{{/overdue}}\n                        <a href=\"{{url}}\"\n                                title=\"{{name}}\"\n                                aria-label='{{#cleanstr}} ariaeventlistitem, block_timeline, { \"name\": {{#quote}}{{{activityname}}}{{/quote}}, \"course\": {{#quote}}{{{course.fullnamedisplay}}}{{/quote}}, \"date\": \"{{#userdate}} {{timesort}}, {{#str}} strftimedatetime, core_langconfig {{/str}} {{/userdate}}\" } {{/cleanstr}}'>\n                            {{{activityname}}}</a>\n                    </h6>\n                </div>\n                <small class=\"mb-0\">\n                    {{#courseview}}\n                        {{activitystr}}\n                    {{/courseview}}\n                    {{^courseview}}\n                        {{activitystr}}{{#course.fullnamedisplay}} &middot; {{{course.fullnamedisplay}}}{{/course.fullnamedisplay}}\n                    {{/courseview}}\n                </small>\n            </div>\n        </div>\n        {{#action.actionable}}\n        <div class=\"d-flex timeline-action-button\">\n            <h6 class=\"event-action\">\n                <a class=\"list-group-item-action btn btn-outline-secondary btn-sm text-nowrap\"\n                    href=\"{{action.url}}\"\n                    aria-label=\"{{action.name}}\"\n                    title=\"{{action.name}}\">\n                {{{action.name}}}\n                {{#action.showitemcount}}\n                <span class=\"badge bg-secondary text-dark\">{{action.itemcount}}</span>\n                {{/action.showitemcount}}\n                </a>\n            </h6>\n        </div>\n        {{/action.actionable}}\n    </div>\n    <div class=\"pt-2 border-bottom\"></div>\n</div>\n"
+        },
+        {
+          "name": "1844975757/core_str/aria:hidecourse/block_myoverview/es",
+          "value": "Ocultar {$a} de la vista"
+        },
+        {
+          "name": "1844975757/core_str/aria:courseprogress/block_myoverview/es",
+          "value": "Progreso del curso:"
+        },
+        {
+          "name": "1844975757/core_str/lastpage/core/es",
+          "value": "Última página"
+        },
+        {
+          "name": "1844975757/core_str/showless/core_form/es",
+          "value": "Ver menos..."
+        },
+        {
+          "name": "1844975757/core_str/moreitems/block_recentlyaccesseditems/es",
+          "value": "Mostrar más elementos"
+        },
+        {
+          "name": "1844975757/core_str/hidecourse/block_myoverview/es",
+          "value": "Eliminar de la vista"
+        },
+        {
+          "name": "1844975757/core_template/1785161947:edutor/block_recentlyaccesseditems/view-cards",
+          "value": "\n\n\n<div data-region=\"items-list\" role=\"list\">\n    {{#items}}\n        <div class=\"card mb-1\" role=\"listitem\">\n            <a href=\"{{{viewurl}}}\" title=\"{{{name}}}\">\n                <div class=\"card-body p-2 m-1\">\n                    <div class=\"d-flex text-truncate\">\n                        <div class=\"d-flex align-self-center activityiconcontainer\">\n                            {{{icon}}}\n                        </div>\n                        <div class=\"w-100 line-height-3 text-truncate ms-2\">\n                            <h4 class=\"mb-0 text-truncate h6\"><span class=\"clickable\">{{{name}}}</span></h4>\n                            <small class=\"text-truncate mb-0\">{{{coursename}}}</small>\n                        </div>\n                    </div>\n                </div>\n            </a>\n        </div>\n    {{/items}}\n</div>\n{{#hasmoreitems}}\n    <div data-region=\"more-items-button-container\" class=\"mt-2 px-1\">\n        <button type=\"button\" class=\"btn btn-secondary btn-sm\" data-action=\"more-items\">\n            {{#str}}moreitems, block_recentlyaccesseditems {{/str}}\n        </button>\n    </div>\n{{/hasmoreitems}}\n"
+        },
+        {
+          "name": "1844975757/core_template/1785161947:edutor/core/paged_content_paging_dropdown_item",
+          "value": "\n\n<a class=\"dropdown-item {{#active}}active{{/active}} {{#disabled}}disabled{{/disabled}} {{$classes}}{{/classes}}\"\n    data-region=\"dropdown-item\"\n    data-item-count=\"{{$itemcount}}{{itemcount}}{{/itemcount}}\"\n    href=\"#\">\n\n    {{$content}}{{{content}}}{{/content}}\n</a>\n"
+        },
+        {
+          "name": "1364341/jsrev",
+          "value": "1785161947"
+        },
+        {
+          "name": "1844975757/core_template/1785161947:edutor/core/modal_save_cancel",
+          "value": "\n\n\n{{< core/modal }}\n    {{$footer}}\n        <button type=\"button\" class=\"btn btn-secondary\" data-action=\"cancel\">{{#str}} cancel {{/str}}</button>\n        <button type=\"button\" class=\"btn btn-primary\" data-action=\"save\">{{#str}} savechanges {{/str}}</button>\n    {{/footer}}\n{{/ core/modal }}\n"
+        },
+        {
+          "name": "1844975757/core_str/show/block_myoverview/es",
+          "value": "Desarchivar"
+        },
+        {
+          "name": "1844975757/core_str/aria:removefromfavourites/block_myoverview/es",
+          "value": "Quitar estrella para"
+        },
+        {
+          "name": "1844975757/core_str/previouspage/core/es",
+          "value": "Página anterior"
+        },
+        {
+          "name": "1844975757/core_str/all/core/es",
+          "value": "Todos"
+        },
+        {
+          "name": "1844975757/core_str/show/core/es",
+          "value": "Mostrar"
+        },
+        {
+          "name": "1844975757/core_str/deleteallevents/core_calendar/es",
+          "value": "Eliminar todos los eventos"
+        },
+        {
+          "name": "1844975757/core_str/firstpage/core/es",
+          "value": "Primera página"
+        },
+        {
+          "name": "1844975757/core_template/1785161947:edutor/block_myoverview/progress-bar",
+          "value": "\n\n<div class=\"progress-text\">\n    <span class=\"visually-hidden\">{{#str}}aria:courseprogress, block_myoverview{{/str}}</span>\n    {{#str}}completepercent, block_myoverview, <span>{{progress}}</span>{{/str}}\n</div>\n"
+        },
+        {
+          "name": "1844975757/core_template/1785161947:edutor/core_course/coursecard",
+          "value": "\n\n<div class=\"card course-card mx-1\" role=\"listitem\"\n    data-region=\"course-content\"\n    data-course-id=\"{{{id}}}\">\n    <a href=\"{{viewurl}}\" tabindex=\"-1\">\n        <div class=\"card-img-top\" style='background-image: url(\"{{{courseimage}}}\");'>\n            <span class=\"visually-hidden\">{{fullname}}</span>\n        </div>\n    </a>\n    <div class=\"card-body pe-1 course-info-container\" id=\"course-info-container-{{id}}-{{uniqid}}\">\n        <div class=\"d-flex align-items-start\">\n            <div class=\"w-100 text-truncate\">\n                {{#showshortname}}\n                    <div class=\"text-muted muted d-flex mb-1 flex-wrap\">\n                        <span class=\"visually-hidden\">\n                            {{#str}}aria:courseshortname, core_course{{/str}}\n                        </span>\n                        <div>\n                            {{{shortname}}}\n                        </div>\n                    </div>\n                {{/showshortname}}\n                <a href=\"{{viewurl}}\" class=\"aalink coursename me-2 mb-1\">\n                    {{> core_course/favouriteicon }}\n                    <span class=\"visually-hidden\">\n                        {{#str}}aria:coursename, core_course{{/str}}\n                    </span>\n                    {{$coursename}}{{/coursename}}\n                </a>\n                <div class=\"text-muted muted d-flex flex-wrap\">\n                    {{$coursecategory}}{{/coursecategory}}\n                </div>\n                {{^visible}}\n                    <div class=\"d-flex flex-wrap\">\n                        <span class=\"badge bg-info text-white\">{{#str}} hiddenfromstudents {{/str}}</span>\n                    </div>\n                {{/visible}}\n            </div>\n        </div>\n    </div>\n    <div class=\"d-flex align-items-start\">\n        {{$progress}}{{/progress}}\n        {{$menu}}{{/menu}}\n    </div>\n</div>\n"
+        },
+        {
+          "name": "1844975757/core_str/first/core/es",
+          "value": "Primero"
+        },
+        {
+          "name": "1844975757/core_str/aria:favourite/core_course/es",
+          "value": "El curso es destacado"
+        },
+        {
+          "name": "1844975757/core_str/cancel/core/es",
+          "value": "Cancelar"
+        },
+        {
+          "name": "1844975757/core_template/1785161947:edutor/core/overlay_loading",
+          "value": "\n\n<span class=\"overlay-icon-container {{$hiddenclass}}{{^visible}}hidden{{/visible}}{{/hiddenclass}}\" data-region=\"overlay-icon-container\">\n    {{> core/loading }}\n</span>\n"
+        },
+        {
+          "name": "1844975757/core_template/1785161947:edutor/core/paged_content",
+          "value": "\n\n<div id=\"paged-content-container-{{uniqid}}\" data-region=\"paged-content-container\">\n    {{^controlplacementbottom}}\n        <div class=\"mb-1\">\n            {{#pagingbar}}\n                {{> core/paged_content_paging_bar }}\n            {{/pagingbar}}\n            {{#pagingdropdown}}\n                {{> core/paged_content_paging_dropdown }}\n            {{/pagingdropdown}}\n        </div>\n    {{/controlplacementbottom}}\n    {{> core/paged_content_pages }}\n    {{#controlplacementbottom}}\n        <div class=\"mt-1\">\n            {{#pagingbar}}\n                {{> core/paged_content_paging_bar }}\n            {{/pagingbar}}\n            {{#pagingdropdown}}\n                {{> core/paged_content_paging_dropdown }}\n            {{/pagingdropdown}}\n        </div>\n    {{/controlplacementbottom}}\n</div>\n{{^skipjs}}\n{{#js}}\nrequire(\n[\n    'jquery',\n    'core/paged_content'\n],\nfunction(\n    $,\n    PagedContent\n) {\n    var container = $(\"#paged-content-container-{{uniqid}}\");\n    PagedContent.init(container);\n});\n{{/js}}\n{{/skipjs}}\n"
+        },
+        {
+          "name": "1844975757/core_template/1785161947:edutor/block_myoverview/course-action-menu",
+          "value": "\n\n<div class=\"ms-auto dropdown\">\n    <button class=\"btn btn-icon coursemenubtn aabtn\"\n        type=\"button\"\n        data-bs-toggle=\"dropdown\"\n        aria-haspopup=\"true\"\n        aria-expanded=\"false\">\n        <i class=\"icon fa fa-ellipsis-v fa-fw m-0\" title=\"{{#str}} aria:courseactions, block_myoverview {{/str}} {{{fullname}}}\" aria-hidden=\"true\"></i>\n        <span class=\"visually-hidden\">{{#str}} aria:courseactions, block_myoverview {{/str}} {{{fullname}}}</span>\n    </button>\n    <div class=\"dropdown-menu dropdown-menu-end\">\n        <a class=\"dropdown-item {{#isfavourite}}hidden{{/isfavourite}}\" href=\"#\"\n            data-action=\"add-favourite\"\n            data-course-id=\"{{id}}\"\n            aria-controls=\"favorite-icon-{{ id }}-{{ uniqid }}\"\n            >\n            {{#str}} addtofavourites, block_myoverview {{/str}}\n            <div class=\"visually-hidden\">\n                {{#str}} aria:addtofavourites, block_myoverview {{/str}} {{{fullname}}}\n            </div>\n        </a>\n        <a class=\"dropdown-item {{^isfavourite}}hidden{{/isfavourite}}\" href=\"#\"\n            data-action=\"remove-favourite\"\n            data-course-id=\"{{id}}\"\n            aria-controls=\"favorite-icon-{{ id }}-{{ uniqid }}\"\n            >\n            {{#str}} removefromfavourites, block_myoverview {{/str}}\n            <div class=\"visually-hidden\">\n                {{#str}} aria:removefromfavourites, block_myoverview {{/str}} {{{fullname}}}\n            </div>\n        </a>\n        <a class=\"dropdown-item {{^hidden}}hidden{{/hidden}}\" href=\"#\"\n            data-action=\"show-course\"\n            data-course-id=\"{{id}}\"\n            aria-controls=\"favorite-icon-{{ id }}-{{ uniqid }}\"\n            >\n            {{#str}} show, block_myoverview {{/str}}\n            <div class=\"visually-hidden\">\n                {{#str}} aria:showcourse, block_myoverview, {{fullname}} {{/str}}\n            </div>\n        </a>\n        <a class=\"dropdown-item {{#hidden}}hidden{{/hidden}}\" href=\"#\"\n            data-action=\"hide-course\"\n            data-course-id=\"{{id}}\"\n            aria-controls=\"favorite-icon-{{ id }}-{{ uniqid }}\"\n            >\n            {{#str}} hidecourse, block_myoverview {{/str}}\n            <div class=\"visually-hidden\">\n                {{#str}} aria:hidecourse, block_myoverview, {{fullname}} {{/str}}\n            </div>\n        </a>\n    </div>\n</div>\n"
+        },
+        {
+          "name": "1844975757/core_template/1785161947:edutor/calendar/modal_event_form",
+          "value": "\n\n\n{{< core/modal }}\n    {{$footer}}\n        <button type=\"button\"\n                class=\"btn btn-primary\"\n                data-context-id=\"{{contextid}}\"\n                data-action=\"save\">\n\n            {{#str}} save {{/str}}\n            <span class=\"hidden\" data-region=\"loading-icon-container\">\n                {{> core/loading }}\n            </span>\n        </button>\n    {{/footer}}\n{{/ core/modal }}\n"
+        },
+        {
+          "name": "1844975757/core_str/aria:coursename/core_course/es",
+          "value": "Nombre del curso"
+        },
+        {
+          "name": "1844975757/core_str/moreactivities/block_timeline/es",
+          "value": "Mostrar más actividades"
+        },
+        {
+          "name": "1844975757/core_str/aria:addtofavourites/block_myoverview/es",
+          "value": "Estrella para"
+        },
+        {
+          "name": "1844975757/core_str/pagea/core/es",
+          "value": "Página {$a}"
+        },
+        {
+          "name": "1844975757/sUserLogintime",
+          "value": "1791661980"
+        },
+        {
+          "name": "1844975757/core_template/1785161947:edutor/block_timeline/event-list-content",
+          "value": "\n\n<div class=\"pb-2\" data-region=\"event-list-wrapper\">\n    {{#eventsbyday}}\n        <div class=\"mt-3\" data-region=\"event-list-content-date\" data-timestamp=\"{{dayTimestamp}}\">\n            <h5 class=\"h6 d-inline {{^courseview}}fw-bold px-2{{/courseview}}\">{{#userdate}} {{dayTimestamp}}, {{#str}} strftimedaydate, core_langconfig {{/str}}  {{/userdate}}</h5>\n        </div>\n        {{> block_timeline/event-list-items }}\n    {{/eventsbyday}}\n</div>\n"
+        },
+        {
+          "name": "1844975757/core_str/delete/core/es",
+          "value": "Borrar"
+        },
+        {
+          "name": "1844975757/core_str/strftimedaydate/core_langconfig/es",
+          "value": "%A, %d de %B de %Y"
+        },
+        {
+          "name": "1844975757/core_str/pagedcontentnavigationactiveitem/core/es",
+          "value": "Página actual, página {$a}"
+        },
+        {
+          "name": "1844975757/core_str/pagedcontentpagingbaritemsperpage/core/es",
+          "value": "Mostrar {$a} elementos por página"
+        },
+        {
+          "name": "1844975757/core_str/aria:showcourse/block_myoverview/es",
+          "value": "Restaurar {$a} para ver"
+        },
+        {
+          "name": "1844975757/core_str/completepercent/block_myoverview/es",
+          "value": "{$a}% completado"
+        },
+        {
+          "name": "1844975757/core_template/1785161947:edutor/core/modal_backdrop",
+          "value": "\n\n<div class=\"modal-backdrop in hide\" aria-hidden=\"true\" data-region=\"modal-backdrop\"></div>\n"
+        },
+        {
+          "name": "1844975757/core_template/1785161947:edutor/core/paged_content_page",
+          "value": "\n\n<div data-region=\"paged-content-page\"\n     data-page=\"{{page}}\"\n     class=\"{{^active}}hidden{{/active}} {{$classes}}{{/classes}}\">\n    {{$content}}\n        {{{content}}}\n    {{/content}}\n</div>\n"
+        },
+        {
+          "name": "1844975757/core_template/1785161947:edutor/calendar/event_delete_modal",
+          "value": "\n\n\n{{< core/modal }}\n    {{$footer}}\n        <button type=\"button\" class=\"btn btn-primary\" data-action=\"deleteone\">{{#str}} deleteoneevent, core_calendar {{/str}}</button>\n        <button type=\"button\" class=\"btn btn-secondary\" data-action=\"deleteall\">{{#str}} deleteallevents, core_calendar {{/str}}</button>\n        <button type=\"button\" class=\"btn btn-secondary\" data-action=\"cancel\">{{#str}} cancel {{/str}}</button>\n    {{/footer}}\n{{/ core/modal }}\n"
+        },
+        {
+          "name": "1844975757/core_template/1785161947:edutor/core/paged_content_pages",
+          "value": "\n\n<div\n    id=\"{{$pagingcontentid}}page-container-{{uniqid}}{{/pagingcontentid}}\"\n    data-region=\"page-container\"\n    class=\"paged-content-page-container\"\n    aria-live=\"polite\"\n>\n    {{#pages}}\n        {{$paged-content-page}}\n            {{> core/paged_content_page }}\n        {{/paged-content-page}}\n    {{/pages}}\n</div>\n"
+        },
+        {
+          "name": "1844975757/core_str/pagedcontentnavigation/core/es",
+          "value": "Navegación de paginación"
+        },
+        {
+          "name": "1844975757/core_template/1785161947:edutor/block_myoverview/view-cards",
+          "value": "\n\n\n{{< core_course/coursecards }}\n    {{$menu}}\n        <div class=\"card-footer menu border-0 bg-white ms-auto p-2\">\n            {{> block_myoverview/course-action-menu }}\n        </div>\n    {{/menu}}\n    {{$progress}}\n        {{#hasprogress}}\n            <div class=\"card-footer border-0 bg-white w-100\">\n                {{> block_myoverview/progress-bar}}\n            </div>\n        {{/hasprogress}}\n    {{/progress}}\n    {{$coursename}}\n        <span class=\"multiline\" title=\"{{fullname}}\">\n            <span class=\"visually-hidden\">{{{fullname}}}</span>\n            <span aria-hidden=\"true\">\n                {{#shortentext}}55, {{{fullname}}} {{/shortentext}}\n            </span>\n        </span>\n    {{/coursename}}\n    {{$coursecategory}}\n        {{#showcoursecategory}}\n            <span class=\"visually-hidden\">\n                {{#str}}aria:coursecategory, core_course{{/str}}\n            </span>\n            <span class=\"categoryname text-truncate\">\n                {{{coursecategory}}}\n            </span>\n        {{/showcoursecategory}}\n    {{/coursecategory}}\n{{/ core_course/coursecards }}\n"
+        },
+        {
+          "name": "1844975757/core_str/hiddenfromstudents/core/es",
+          "value": "Ocultado a los estudiantes"
+        },
+        {
+          "name": "1844975757/core_str/ariaeventlistitem/block_timeline/es",
+          "value": "{$a->name} actividad en {$a->course} está pendiente para {$a->date}"
+        },
+        {
+          "name": "1844975757/core_str/closebuttontitle/core/es",
+          "value": "Cerrar"
+        },
+        {
+          "name": "1844975757/core_template/1785161947:edutor/core/paged_content_paging_bar_item",
+          "value": "\n\n<li class=\"page-item {{#active}}active{{/active}} {{#disabled}}disabled{{/disabled}}\"\n    data-region=\"page-item\"\n    {{$attributes}}{{/attributes}}>\n\n    <a href=\"{{#url}}{{.}}{{/url}}{{^url}}#{{/url}}\"\n       class=\"page-link\"\n       data-region=\"page-link\" {{$linkattributes}}aria-label=\"{{#str}}pagea, moodle, {{page}}{{/str}}\"{{/linkattributes}}>\n        {{$item-content}}\n            {{{page}}}\n        {{/item-content}}\n    </a>\n</li>\n"
+        },
+        {
+          "name": "1844975757/core_iconsystem/theme/edutor/core/iconmap-fontawesome",
+          "value": "[[\"core/docs\",\"fa fa-circle-info\"],[\"core/book\",\"fa fa-book\"],[\"core/help\",\"fa fa-circle-question text-info\"],[\"core/req\",\"fa fa-circle-exclamation text-danger\"],[\"core/a/add_file\",\"fa fa-circle-plus\"],[\"core/a/create_folder\",\"fa fa-folder-plus\"],[\"core/a/download_all\",\"fa fa-download\"],[\"core/a/help\",\"fa fa-circle-question text-info\"],[\"core/a/logout\",\"fa fa-arrow-right-to-bracket\"],[\"core/a/refresh\",\"fa fa-arrows-rotate\"],[\"core/a/search\",\"fa fa-magnifying-glass\"],[\"core/a/setting\",\"fa fa-gear\"],[\"core/a/view_icon_active\",\"fa fa-border-all\"],[\"core/a/view_list_active\",\"fa fa-list\"],[\"core/a/view_tree_active\",\"fa fa-folder-tree\"],[\"core/b/bookmark-new\",\"fa-regular fa-bookmark\"],[\"core/b/document-edit\",\"fa fa-pen\"],[\"core/b/document-new\",\"fa fa-file-circle-plus\"],[\"core/b/document-properties\",\"fa fa-wrench\"],[\"core/b/edit-copy\",\"fa fa-pen\"],[\"core/b/edit-delete\",\"fa fa-trash-can\"],[\"core/e/abbr\",\"fa-regular fa-message\"],[\"core/e/absolute\",\"fa fa-crosshairs\"],[\"core/e/accessibility_checker\",\"fa fa-universal-access\"],[\"core/e/acronym\",\"fa-regular fa-comment\"],[\"core/e/advance_hr\",\"fa fa-arrows-left-right\"],[\"core/e/align_center\",\"fa fa-align-center\"],[\"core/e/align_left\",\"fa fa-align-left\"],[\"core/e/align_right\",\"fa fa-align-right\"],[\"core/e/anchor\",\"fa fa-anchor\"],[\"core/e/backward\",\"fa fa-arrow-left\"],[\"core/e/bold\",\"fa fa-bold\"],[\"core/e/bullet_list\",\"fa fa-list-ul\"],[\"core/e/cancel\",\"fa fa-xmark\"],[\"core/e/cancel_solid_circle\",\"fa fa-circle-xmark\"],[\"core/e/cell_props\",\"fa fa-info\"],[\"core/e/cite\",\"fa fa-quote-right\"],[\"core/e/cleanup_messy_code\",\"fa fa-delete-left\"],[\"core/e/clear_formatting\",\"fa fa-eraser\"],[\"core/e/copy\",\"fa-regular fa-clone\"],[\"core/e/cut\",\"fa fa-scissors\"],[\"core/e/decrease_indent\",\"fa fa-outdent\"],[\"core/e/delete_col\",\"fa fa-minus\"],[\"core/e/delete_row\",\"fa fa-minus\"],[\"core/e/delete\",\"fa fa-trash-can\"],[\"core/e/delete_table\",\"fa fa-trash-can\"],[\"core/e/document_properties\",\"fa fa-wrench\"],[\"core/e/emoticons\",\"fa-regular fa-face-smile\"],[\"core/e/find_replace\",\"fa fa-magnifying-glass-plus\"],[\"core/e/file-text\",\"fa-regular fa-file-text\"],[\"core/e/forward\",\"fa fa-arrow-right\"],[\"core/e/fullpage\",\"fa fa-maximize\"],[\"core/e/fullscreen\",\"fa-solid fa-expand\"],[\"core/e/help\",\"fa fa-circle-question\"],[\"core/e/increase_indent\",\"fa fa-indent\"],[\"core/e/insert_date\",\"fa-regular fa-calendar-plus\"],[\"core/e/insert_edit_image\",\"fa-regular fa-image\"],[\"core/e/insert_edit_link\",\"fa fa-link\"],[\"core/e/insert_edit_video\",\"fa-regular fa-file-video\"],[\"core/e/insert_file\",\"fa-regular fa-file\"],[\"core/e/insert_horizontal_ruler\",\"fa fa-ruler-horizontal\"],[\"core/e/insert_nonbreaking_space\",\"fa-regular fa-square\"],[\"core/e/insert_page_break\",\"fa fa-plus\"],[\"core/e/insert_row_after\",\"fa fa-plus\"],[\"core/e/insert_row_before\",\"fa fa-plus\"],[\"core/e/insert\",\"fa fa-plus\"],[\"core/e/insert_time\",\"fa-regular fa-clock\"],[\"core/e/italic\",\"fa fa-italic\"],[\"core/e/justify\",\"fa fa-align-justify\"],[\"core/e/layers_over\",\"fa fa-turn-up deprecated deprecated-core:e/layers_over\"],[\"core/e/layers\",\"fa fa-layer-group\"],[\"core/e/layers_under\",\"fa fa-turn-down deprecated deprecated-core:e/layers_under\"],[\"core/e/left_to_right\",\"fa fa-angles-right\"],[\"core/e/manage_files\",\"fa fa-laptop-file\"],[\"core/e/math\",\"fa fa-square-root-variable\"],[\"core/e/merge_cells\",\"fa fa-arrows-to-circle\"],[\"core/e/new_document\",\"fa fa-file-circle-plus\"],[\"core/e/numbered_list\",\"fa fa-list-ol\"],[\"core/e/page_break\",\"fa fa-arrows-left-right-to-line\"],[\"core/e/paste\",\"fa fa-paste\"],[\"core/e/paste_text\",\"fa fa-paste\"],[\"core/e/paste_word\",\"fa fa-paste\"],[\"core/e/prevent_autolink\",\"fa fa-exclamation\"],[\"core/e/preview\",\"fa fa-magnifying-glass-plus\"],[\"core/e/print\",\"fa fa-print\"],[\"core/e/question\",\"fa fa-question\"],[\"core/e/redo\",\"fa fa-arrow-rotate-right\"],[\"core/e/remove_link\",\"fa fa-link-slash\"],[\"core/e/remove_page_break\",\"fa fa-xmark\"],[\"core/e/resize\",\"fa fa-up-right-and-down-left-from-center\"],[\"core/e/restore_draft\",\"fa fa-trash-can-arrow-up\"],[\"core/e/restore_last_draft\",\"fa fa-clock-rotate-left\"],[\"core/e/right_to_left\",\"fa fa-angles-left\"],[\"core/e/row_props\",\"fa fa-info deprecated deprecated-core:e/row_props\"],[\"core/e/save\",\"fa-regular fa-floppy-disk\"],[\"core/e/screenreader_helper\",\"fa fa-ear-listen\"],[\"core/e/search\",\"fa fa-magnifying-glass\"],[\"core/e/select_all\",\"fa fa-square-check\"],[\"core/e/show_invisible_characters\",\"fa-solid fa-eye\"],[\"core/e/source_code\",\"fa fa-code\"],[\"core/e/special_character\",\"fa fa-pen-to-square\"],[\"core/e/spellcheck\",\"fa fa-spell-check\"],[\"core/e/strikethrough\",\"fa fa-strikethrough\"],[\"core/e/styleparagraph\",\"fa fa-font\"],[\"core/e/subscript\",\"fa fa-subscript\"],[\"core/e/superscript\",\"fa fa-superscript\"],[\"core/e/table_props\",\"fa fa-table\"],[\"core/e/table\",\"fa fa-table\"],[\"core/e/template\",\"fa fa-file-invoice\"],[\"core/e/text_color_picker\",\"fa fa-eye-dropper\"],[\"core/e/text_highlight_picker\",\"fa-solid fa-highlighter\"],[\"core/e/text_highlight\",\"fa-solid fa-highlighter\"],[\"core/e/tick\",\"fa fa-check\"],[\"core/e/toggle_blockquote\",\"fa fa-quote-left\"],[\"core/e/underline\",\"fa fa-underline\"],[\"core/e/undo\",\"fa fa-rotate-left\"],[\"core/e/visual_aid\",\"fa fa-universal-access\"],[\"core/e/visual_blocks\",\"fa fa-audio-description\"],[\"theme/fp/add_file\",\"fa fa-file-circle-plus\"],[\"theme/fp/alias\",\"fa fa-share\"],[\"theme/fp/alias_sm\",\"fa fa-share\"],[\"theme/fp/check\",\"fa fa-check\"],[\"theme/fp/create_folder\",\"fa fa-folder-plus\"],[\"theme/fp/cross\",\"fa fa-xmark\"],[\"theme/fp/download_all\",\"fa fa-download\"],[\"theme/fp/help\",\"fa fa-question-circle\"],[\"theme/fp/link\",\"fa fa-link\"],[\"theme/fp/link_sm\",\"fa fa-link\"],[\"theme/fp/logout\",\"fa fa-arrow-right-from-bracket\"],[\"theme/fp/path_folder\",\"fa fa-folder\"],[\"theme/fp/path_folder_rtl\",\"fa fa-folder\"],[\"theme/fp/refresh\",\"fa fa-arrows-rotate\"],[\"theme/fp/search\",\"fa fa-magnifying-glass\"],[\"theme/fp/setting\",\"fa fa-gear\"],[\"theme/fp/view_icon_active\",\"fa fa-border-all\"],[\"theme/fp/view_list_active\",\"fa fa-list\"],[\"theme/fp/view_tree_active\",\"fa fa-folder-tree\"],[\"core/i/activities\",\"fa fa-file-pen\"],[\"core/i/addblock\",\"fa-regular fa-square-plus\"],[\"core/i/assignroles\",\"fa fa-user-tag\"],[\"core/i/asterisk\",\"fa fa-asterisk\"],[\"core/i/backup\",\"fa fa-circle-arrow-down\"],[\"core/i/badge\",\"fa fa-award\"],[\"core/i/breadcrumbdivider\",\"fa fa-chevron-right\"],[\"core/i/bullhorn\",\"fa fa-bullhorn\"],[\"core/i/calc\",\"fa fa-calculator\"],[\"core/i/calendar\",\"fa-regular fa-calendar\"],[\"core/i/calendareventdescription\",\"fa fa-align-left\"],[\"core/i/calendareventtime\",\"fa-regular fa-clock\"],[\"core/i/categoryevent\",\"fa fa-shapes\"],[\"core/i/caution\",\"fa fa-warning text-warning\"],[\"core/i/chartbar\",\"fa fa-chart-bar\"],[\"core/i/checked\",\"fa fa-check\"],[\"core/i/checkedcircle\",\"fa fa-circle-check\"],[\"core/i/checkpermissions\",\"fa fa-user-lock\"],[\"core/i/circleinfo\",\"fa fa-circle-info\"],[\"core/i/cloudupload\",\"fa fa-cloud-upload\"],[\"core/i/cohort\",\"fa fa-users-line\"],[\"core/i/competencies\",\"fa fa-list-check\"],[\"core/i/completion_self\",\"fa fa-user-check\"],[\"core/i/contentbank\",\"fa fa-laptop-file\"],[\"core/i/course\",\"fa fa-graduation-cap\"],[\"core/i/courseevent\",\"fa fa-graduation-cap\"],[\"core/i/customfield\",\"fa fa-cog\"],[\"core/i/dashboard\",\"fa fa-gauge\"],[\"core/i/db\",\"fa fa-database\"],[\"core/i/delete\",\"fa fa-trash-can\"],[\"core/i/down\",\"fa fa-arrow-down\"],[\"core/i/dragdrop\",\"fa fa-arrows-up-down-left-right\"],[\"core/i/duration\",\"fa fa-hourglass\"],[\"core/i/edit\",\"fa fa-pen\"],[\"core/i/email\",\"fa fa-envelope\"],[\"core/i/emojicategoryactivities\",\"fa fa-futbol\"],[\"core/i/emojicategoryanimalsnature\",\"fa fa-leaf\"],[\"core/i/emojicategoryflags\",\"fa fa-flag\"],[\"core/i/emojicategoryfooddrink\",\"fa fa-pizza-slice\"],[\"core/i/emojicategoryobjects\",\"fa fa-hammer\"],[\"core/i/emojicategorypeoplebody\",\"fa fa-person\"],[\"core/i/emojicategoryrecent\",\"fa-regular fa-clock\"],[\"core/i/emojicategorysmileysemotion\",\"fa-regular fa-face-smile\"],[\"core/i/emojicategorysymbols\",\"fa fa-peace\"],[\"core/i/emojicategorytravelplaces\",\"fa fa-plane\"],[\"core/i/empty\",\"fa-regular fa-square\"],[\"core/i/enrolmentsuspended\",\"fa fa-user-xmark\"],[\"core/i/enrolusers\",\"fa fa-user-plus\"],[\"core/i/excluded\",\"fa fa-circle-minus\"],[\"core/i/expired\",\"fa fa-circle-exclamation text-warning\"],[\"core/i/externallink\",\"fa fa-arrow-up-right-from-square\"],[\"core/i/file_plus\",\"fa fa-file-circle-plus\"],[\"core/i/files\",\"fa fa-file\"],[\"core/i/filter\",\"fa fa-filter\"],[\"core/i/flagged\",\"fa fa-flag\"],[\"core/i/folder\",\"fa fa-folder\"],[\"core/i/grade_correct\",\"fa-regular fa-circle-check text-success\"],[\"core/i/grade_incorrect\",\"fa-regular fa-circle-xmark text-danger\"],[\"core/i/grades\",\"fa fa-clipboard-check\"],[\"core/i/grading\",\"fa fa-wand-magic-sparkles\"],[\"core/i/gradingnotifications\",\"fa-regular fa-bell\"],[\"core/i/group\",\"fa fa-users\"],[\"core/i/groupevent\",\"fa fa-users\"],[\"core/i/hide\",\"fa-regular fa-eye\"],[\"core/i/hierarchylock\",\"fa fa-lock\"],[\"core/i/home\",\"fa fa-house\"],[\"core/i/incorrect\",\"fa fa-exclamation\"],[\"core/i/info\",\"fa fa-info\"],[\"core/i/invalid\",\"fa fa-xmark text-danger\"],[\"core/i/language\",\"fa fa-language\"],[\"core/i/link\",\"fa fa-link\"],[\"core/i/loading\",\"fa fa-spinner fa-spin\"],[\"core/i/loading_small\",\"fa fa-spinner fa-spin fa-sm\"],[\"core/i/location\",\"fa fa-location-dot\"],[\"core/i/lock\",\"fa fa-lock\"],[\"core/i/log\",\"fa fa-check-to-slot\"],[\"core/i/mahara_host\",\"fa fa-id-badge deprecated deprecated-core:i/mahara_host\"],[\"core/i/manual_item\",\"fa fa-pen-to-square\"],[\"core/i/marked\",\"fa-solid fa-highlighter\"],[\"core/i/marker\",\"fa fa-pen-clip\"],[\"core/i/mean\",\"fa fa-calculator\"],[\"core/i/menu\",\"fa fa-ellipsis-vertical\"],[\"core/i/menubars\",\"fa fa-bars\"],[\"core/i/messagecontentaudio\",\"fa fa-volume-high\"],[\"core/i/messagecontentimage\",\"fa fa-image\"],[\"core/i/messagecontentmultimediageneral\",\"fa fa-photo-film\"],[\"core/i/messagecontentvideo\",\"fa fa-film\"],[\"core/i/mnethost\",\"fa fa-square-arrow-up-right\"],[\"core/i/moodle_host\",\"fa fa-graduation-cap\"],[\"core/i/moremenu\",\"fa fa-ellipsis\"],[\"core/i/move_2d\",\"fa fa-arrows-up-down-left-right\"],[\"core/i/muted\",\"fa fa-microphone-slash\"],[\"core/i/navigationitem\",\"fa fa-fw\"],[\"core/i/ne_red_mark\",\"fa fa-xmark text-danger\"],[\"core/i/new\",\"fa fa-bolt\"],[\"core/i/news\",\"fa fa-newspaper\"],[\"core/i/next\",\"fa fa-chevron-right\"],[\"core/i/nosubcat\",\"fa fa-plus-square-o\"],[\"core/i/notifications\",\"fa fa-bell\"],[\"core/i/open\",\"fa fa-folder-open\"],[\"core/i/otherevent\",\"fa fa-circle-info\"],[\"core/i/outcomes\",\"fa fa-list-check\"],[\"core/i/overriden_grade\",\"fa fa-pen-to-square\"],[\"core/i/payment\",\"fa-solid fa-credit-card\"],[\"core/i/permissionlock\",\"fa fa-user-lock\"],[\"core/i/permissions\",\"fa fa-user-lock\"],[\"core/i/persona_sign_in_black\",\"fa fa-person\"],[\"core/i/portfolio\",\"fa fa-briefcase\"],[\"core/i/preview\",\"fa fa-magnifying-glass-plus\"],[\"core/i/previous\",\"fa fa-chevron-left\"],[\"core/i/privatefiles\",\"fa fa-file-circle-minus\"],[\"core/i/progressbar\",\"fa fa-spinner fa-spin\"],[\"core/i/publish\",\"fa fa-arrow-up-from-bracket\"],[\"core/i/questions\",\"fa fa-question\"],[\"core/i/reload\",\"fa fa-rotate-right\"],[\"core/i/report\",\"fa fa-chart-column\"],[\"core/i/repository\",\"fa fa-hard-drive\"],[\"core/i/restore\",\"fa fa-trash-can-arrow-up\"],[\"core/i/return\",\"fa fa-arrow-left\"],[\"core/i/risk_config\",\"fa fa-triangle-exclamation text-muted\"],[\"core/i/risk_dataloss\",\"fa fa-triangle-exclamation text-danger\"],[\"core/i/risk_managetrust\",\"fa fa-triangle-exclamation text-warning\"],[\"core/i/risk_personal\",\"fa fa-triangle-exclamation text-info\"],[\"core/i/risk_spam\",\"fa fa-triangle-exclamation text-primary\"],[\"core/i/risk_xss\",\"fa fa-triangle-exclamation text-danger\"],[\"core/i/role\",\"fa fa-user-tie\"],[\"core/i/rss\",\"fa fa-rss\"],[\"core/i/rsssitelogo\",\"fa fa-graduation-cap\"],[\"core/i/scales\",\"fa fa-scale-balanced\"],[\"core/i/scheduled\",\"fa-regular fa-calendar-check\"],[\"core/i/search\",\"fa fa-magnifying-glass\"],[\"core/i/section\",\"fa-regular fa-rectangle-list\"],[\"core/i/sendmessage\",\"fa-regular fa-paper-plane\"],[\"core/i/settings\",\"fa fa-gear\"],[\"core/i/share\",\"fa-regular fa-share-from-square\"],[\"core/i/show\",\"fa-regular fa-eye-slash\"],[\"core/i/siteevent\",\"fa-solid fa-globe\"],[\"core/i/star\",\"fa fa-star\"],[\"core/i/star-o\",\"fa-regular fa-star\"],[\"core/i/star-rating\",\"fa fa-star\"],[\"core/i/stats\",\"fa fa-chart-line\"],[\"core/i/switch\",\"fa fa-right-left\"],[\"core/i/switchrole\",\"fa fa-people-arrows\"],[\"core/i/trash\",\"fa fa-trash-can\"],[\"core/i/twoway\",\"fa fa-arrows-left-right\"],[\"core/i/unchecked\",\"fa-regular fa-square\"],[\"core/i/uncheckedcircle\",\"fa-regular fa-circle\"],[\"core/i/unflagged\",\"fa-regular fa-flag\"],[\"core/i/unlock\",\"fa fa-unlock\"],[\"core/i/up\",\"fa fa-arrow-up\"],[\"core/i/upload\",\"fa fa-upload\"],[\"core/i/user\",\"fa fa-user\"],[\"core/i/userevent\",\"fa fa-clipboard-user\"],[\"core/i/users\",\"fa fa-user-group\"],[\"core/i/valid\",\"fa fa-check text-success\"],[\"core/i/viewcategory\",\"fa fa-pager\"],[\"core/i/viewsection\",\"fa fa-pager\"],[\"core/i/warning\",\"fa fa-triangle-exclamation text-warning\"],[\"core/i/window_close\",\"fa fa-xmark\"],[\"core/i/withsubcat\",\"fa fa-network-wired\"],[\"core/m/USD\",\"fa fa-dollar-sign\"],[\"core/t/add\",\"fa fa-plus\"],[\"core/t/addcontact\",\"fa fa-address-card\"],[\"core/t/angles-down\",\"fa fa-angles-down\"],[\"core/t/angles-left\",\"fa fa-angles-left\"],[\"core/t/angles-right\",\"fa fa-angles-right\"],[\"core/t/angles-up\",\"fa fa-angles-up\"],[\"core/t/approve\",\"fa fa-thumbs-up\"],[\"core/t/assignroles\",\"fa fa-user-tag\"],[\"core/t/award\",\"fa fa-award\"],[\"core/t/backpack\",\"fa fa-suitcase-rolling\"],[\"core/t/backup\",\"fa fa-circle-arrow-down\"],[\"core/t/block\",\"fa fa-ban\"],[\"core/t/block_to_dock\",\"fa fa-chevron-left\"],[\"core/t/block_to_dock_rtl\",\"fa fa-chevron-right\"],[\"core/t/blocks_drawer\",\"fa fa-chevron-left\"],[\"core/t/blocks_drawer_rtl\",\"fa fa-chevron-right\"],[\"core/t/calc_off\",\"fa fa-calculator\"],[\"core/t/calc\",\"fa fa-calculator\"],[\"core/t/check\",\"fa fa-check\"],[\"core/t/clipboard\",\"fa fa-clipboard\"],[\"core/t/cohort\",\"fa fa-users-line\"],[\"core/t/collapsed_empty_rtl\",\"fa fa-chevron-left\"],[\"core/t/collapsed_empty\",\"fa fa-chevron-right\"],[\"core/t/collapsed_rtl\",\"fa fa-chevron-left\"],[\"core/t/collapsed\",\"fa fa-chevron-right\"],[\"core/t/collapsedchevron\",\"fa fa-chevron-right\"],[\"core/t/collapsedchevron_rtl\",\"fa fa-chevron-left\"],[\"core/t/collapsedchevron_up\",\"fa fa-chevron-up\"],[\"core/t/completion_complete\",\"fa fa-circle\"],[\"core/t/completion_fail\",\"fa fa-xmark\"],[\"core/t/contextmenu\",\"fa fa-ellipsis-vertical\"],[\"core/t/copy\",\"fa-solid fa-clone\"],[\"core/t/delete\",\"fa fa-trash-can\"],[\"core/t/dock_to_block_rtl\",\"fa fa-chevron-left\"],[\"core/t/dock_to_block\",\"fa fa-chevron-right\"],[\"core/t/dockclose\",\"fa fa-xmark\"],[\"core/t/down\",\"fa fa-arrow-down\"],[\"core/t/download\",\"fa fa-download\"],[\"core/t/downlong\",\"fa fa-arrow-down-long\"],[\"core/t/dropdown\",\"fa fa-caret-down\"],[\"core/t/edit_menu\",\"fa fa-ellipsis-vertical\"],[\"core/t/edit\",\"fa fa-pen\"],[\"core/t/editinline\",\"fa fa-pen\"],[\"core/t/editstring\",\"fa fa-pen\"],[\"core/t/email\",\"fa-regular fa-envelope\"],[\"core/t/emailno\",\"fa fa-ban\"],[\"core/t/emptystar\",\"fa-regular fa-star\"],[\"core/t/enrolusers\",\"fa fa-user-plus\"],[\"core/t/expanded\",\"fa fa-chevron-down\"],[\"core/t/expandedchevron\",\"fa fa-chevron-down\"],[\"core/t/go\",\"fa fa-play\"],[\"core/t/grades\",\"fa fa-table-list\"],[\"core/t/groupn\",\"fa fa-user\"],[\"core/t/groups\",\"fa fa-circle-user\"],[\"core/t/groupv\",\"fa-regular fa-circle-user\"],[\"core/t/hide\",\"fa-regular fa-eye\"],[\"core/t/index_drawer\",\"fa fa-list\"],[\"core/t/left\",\"fa fa-arrow-left\"],[\"core/t/less\",\"fa fa-minus\"],[\"core/t/life-ring\",\"fa fa-life-ring\"],[\"core/t/lock\",\"fa fa-unlock\"],[\"core/t/locked\",\"fa fa-lock\"],[\"core/t/log\",\"fa fa-history\"],[\"core/t/markasread\",\"fa fa-check\"],[\"core/t/message\",\"fa fa-message\"],[\"core/t/messages\",\"fa fa-comments\"],[\"core/t/messages-o\",\"fa-regular fa-comments\"],[\"core/t/more\",\"fa fa-caret-down\"],[\"core/t/move\",\"fa fa-arrows-up-down\"],[\"core/t/online\",\"fa fa-circle-check\"],[\"core/t/passwordunmask-edit\",\"fa fa-pen\"],[\"core/t/passwordunmask-reveal\",\"fa-solid fa-eye\"],[\"core/t/play\",\"fa fa-play\"],[\"core/t/portfolioadd\",\"fa fa-plus\"],[\"core/t/preferences\",\"fa fa-wrench\"],[\"core/t/preview\",\"fa fa-magnifying-glass-plus\"],[\"core/t/print\",\"fa fa-print\"],[\"core/t/reload\",\"fa fa-rotate-right\"],[\"core/t/removecontact\",\"fa fa-user-xmark\"],[\"core/t/reset\",\"fa fa-arrow-rotate-left\"],[\"core/t/restore\",\"fa fa-trash-can-arrow-up\"],[\"core/t/right\",\"fa fa-arrow-right\"],[\"core/t/sendmessage\",\"fa-regular fa-paper-plane\"],[\"core/t/show\",\"fa fa-eye-slash\"],[\"core/t/sort_asc\",\"fa fa-arrow-up-short-wide\"],[\"core/t/sort_by\",\"fa fa-arrow-down-wide-short\"],[\"core/t/sort_desc\",\"fa fa-arrow-down-short-wide\"],[\"core/t/sort\",\"fa fa-sort\"],[\"core/t/stealth\",\"fa fa-low-vision\"],[\"core/t/stop\",\"fa fa-stop\"],[\"core/t/switch_minus\",\"fa fa-minus\"],[\"core/t/switch_plus\",\"fa fa-plus\"],[\"core/t/switch_whole\",\"fa-regular fa-square\"],[\"core/t/tags\",\"fa fa-tags\"],[\"core/t/unblock\",\"fa fa-unlock-keyhole\"],[\"core/t/unlock\",\"fa fa-lock\"],[\"core/t/unlocked\",\"fa fa-lock-open\"],[\"core/t/up\",\"fa fa-arrow-up\"],[\"core/t/uplong\",\"fa fa-arrow-up-long\"],[\"core/t/user\",\"fa fa-user\"],[\"core/t/viewdetails\",\"fa fa-magnifying-glass-plus\"],[\"qtype_ddmarker/crosshairs\",\"fa fa-crosshairs\"],[\"qtype_ddmarker/grid\",\"fa fa-table-cells\"],[\"mod_book/add\",\"fa fa-plus\"],[\"mod_book/chapter\",\"fa fa-book-bookmark\"],[\"mod_customcert/download\",\"fa fa-download\"],[\"mod_feedback/notrequired\",\"fa fa-circle-question\"],[\"mod_feedback/required\",\"fa fa-circle-exclamation\"],[\"mod_forum/i/pinned\",\"fa fa-thumbtack\"],[\"mod_forum/t/selected\",\"fa fa-check\"],[\"mod_forum/t/star\",\"fa fa-star\"],[\"mod_forum/t/subscribed\",\"fa-regular fa-envelope\"],[\"mod_forum/t/unsubscribed\",\"fa-regular fa-envelope-open\"],[\"mod_glossary/asc\",\"fa fa-sort-down\"],[\"mod_glossary/desc\",\"fa fa-sort-up\"],[\"mod_glossary/export\",\"fa fa-arrow-turn-up\"],[\"mod_glossary/minus\",\"fa fa-minus\"],[\"mod_lesson/e/copy\",\"fa-solid fa-clone\"],[\"mod_lti/warning\",\"fa fa-exclamation text-warning\"],[\"mod_quiz/navflagged\",\"fa fa-flag\"],[\"mod_scorm/asset\",\"fa-regular fa-file-zipper\"],[\"mod_scorm/assetc\",\"fa-regular fa-file-zipper\"],[\"mod_scorm/completed\",\"fa-regular fa-square-check\"],[\"mod_scorm/failed\",\"fa fa-xmark\"],[\"mod_scorm/incomplete\",\"fa-regular fa-pen-to-square\"],[\"mod_scorm/minus\",\"fa fa-minus\"],[\"mod_scorm/notattempted\",\"fa-regular fa-square\"],[\"mod_scorm/passed\",\"fa fa-check\"],[\"mod_scorm/plus\",\"fa fa-plus\"],[\"mod_scorm/popdown\",\"fa-regular fa-rectangle-xmark\"],[\"mod_scorm/popup\",\"fa-regular fa-window-restore\"],[\"mod_scorm/suspend\",\"fa fa-pause\"],[\"mod_scorm/wait\",\"fa fa-spinner fa-spin\"],[\"mod_subsection/subsection\",\"fa fa-rectangle-list\"],[\"mod_wiki/attachment\",\"fa fa-paperclip\"],[\"mod_workshop/userplan/task-done\",\"fa fa-clipboard-check text-success\"],[\"mod_workshop/userplan/task-fail\",\"fa fa-xmark text-danger\"],[\"mod_workshop/userplan/task-info\",\"fa fa-circle-info text-info\"],[\"mod_workshop/userplan/task-todo\",\"fa-regular fa-clipboard\"],[\"customfield_date/checked\",\"fa-regular fa-calendar-check\"],[\"customfield_date/notchecked\",\"fa-regular fa-calendar\"],[\"enrol_guest/withoutpassword\",\"fa fa-lock-open\"],[\"enrol_guest/withpassword\",\"fa fa-lock\"],[\"enrol_lti/enrolinstancewarning\",\"fa fa-triangle-exclamation text-danger\"],[\"enrol_lti/managedeployments\",\"fa fa-users-gear\"],[\"enrol_lti/platformdetails\",\"fa fa-square-pen\"],[\"enrol_self/withkey\",\"fa fa-key\"],[\"enrol_self/withoutkey\",\"fa-solid fa-right-to-bracket\"],[\"block_accessreview/smile\",\"fa-regular fa-smile\"],[\"block_accessreview/frown\",\"fa-regular fa-face-frown\"],[\"block_accessreview/errorsfound\",\"fa fa-ban\"],[\"block_accessreview/f/find\",\"fa fa-magnifying-glass\"],[\"block_accessreview/f/form\",\"fa fa-list-check\"],[\"block_accessreview/f/image\",\"fa fa-image\"],[\"block_accessreview/f/layout\",\"fa fa-table-cells-large\"],[\"block_accessreview/f/link\",\"fa fa-link\"],[\"block_accessreview/f/media\",\"fa fa-photo-film\"],[\"block_accessreview/f/pdf\",\"fa-regular fa-file-pdf\"],[\"block_accessreview/f/table\",\"fa fa-table\"],[\"block_accessreview/f/text\",\"fa fa-font\"],[\"block_accessreview/f/video\",\"fa-regular fa-file-video\"],[\"block_accessreview/t/fail\",\"fa fa-xmark\"],[\"block_accessreview/t/pass\",\"fa fa-check\"],[\"format_tiles/tileicon/address-book-o\",\"fa fa-address-book-o\"],[\"format_tiles/tileicon/asterisk\",\"fa fa-asterisk\"],[\"format_tiles/tileicon/balance-scale\",\"fa fa-balance-scale\"],[\"format_tiles/tileicon/bar-chart\",\"fa fa-bar-chart\"],[\"format_tiles/tileicon/bell-o\",\"fa fa-bell-o\"],[\"format_tiles/tileicon/binoculars\",\"fa fa-binoculars\"],[\"format_tiles/tileicon/bitcoin\",\"fa fa-bitcoin\"],[\"format_tiles/tileicon/book\",\"fa fa-book\"],[\"format_tiles/tileicon/bookmark-o\",\"fa fa-bookmark-o\"],[\"format_tiles/tileicon/briefcase\",\"fa fa-briefcase\"],[\"format_tiles/tileicon/building\",\"fa fa-building\"],[\"format_tiles/tileicon/bullhorn\",\"fa fa-bullhorn\"],[\"format_tiles/tileicon/bullseye\",\"fa fa-bullseye\"],[\"format_tiles/tileicon/calculator\",\"fa fa-calculator\"],[\"format_tiles/tileicon/calendar\",\"fa fa-calendar\"],[\"format_tiles/tileicon/calendar-check-o\",\"fa fa-calendar-check-o\"],[\"format_tiles/tileicon/check\",\"fa fa-check\"],[\"format_tiles/tileicon/child\",\"fa fa-child\"],[\"format_tiles/tileicon/clock-o\",\"fa fa-clock-o\"],[\"format_tiles/tileicon/clone\",\"fa fa-clone\"],[\"format_tiles/tileicon/cloud-download\",\"fa fa-cloud-download\"],[\"format_tiles/tileicon/cloud-upload\",\"fa fa-cloud-upload\"],[\"format_tiles/tileicon/comment-o\",\"fa fa-comment-o\"],[\"format_tiles/tileicon/comments-o\",\"fa fa-comments-o\"],[\"format_tiles/tileicon/compass\",\"fa fa-compass\"],[\"format_tiles/tileicon/diamond\",\"fa fa-diamond\"],[\"format_tiles/tileicon/dollar\",\"fa fa-dollar\"],[\"format_tiles/tileicon/euro\",\"fa fa-euro\"],[\"format_tiles/tileicon/exclamation-triangle\",\"fa fa-exclamation-triangle\"],[\"format_tiles/tileicon/feed\",\"fa fa-feed\"],[\"format_tiles/tileicon/file-text-o\",\"fa fa-file-text-o\"],[\"format_tiles/tileicon/film\",\"fa fa-film\"],[\"format_tiles/tileicon/flag-checkered\",\"fa fa-flag-checkered\"],[\"format_tiles/tileicon/flag-o\",\"fa fa-flag-o\"],[\"format_tiles/tileicon/flash\",\"fa fa-flash\"],[\"format_tiles/tileicon/flask\",\"fa fa-flask\"],[\"format_tiles/tileicon/frown-o\",\"fa fa-frown-o\"],[\"format_tiles/tileicon/gavel\",\"fa fa-gavel\"],[\"format_tiles/tileicon/gbp\",\"fa fa-gbp\"],[\"format_tiles/tileicon/globe\",\"fa fa-globe\"],[\"format_tiles/tileicon/handshake-o\",\"fa fa-handshake-o\"],[\"format_tiles/tileicon/headphones\",\"fa fa-headphones\"],[\"format_tiles/tileicon/heartbeat\",\"fa fa-heartbeat\"],[\"format_tiles/tileicon/history\",\"fa fa-history\"],[\"format_tiles/tileicon/home\",\"fa fa-home\"],[\"format_tiles/tileicon/id-card-o\",\"fa fa-id-card-o\"],[\"format_tiles/tileicon/info\",\"fa fa-info\"],[\"format_tiles/tileicon/key\",\"fa fa-key\"],[\"format_tiles/tileicon/laptop\",\"fa fa-laptop\"],[\"format_tiles/tileicon/life-buoy\",\"fa fa-life-buoy\"],[\"format_tiles/tileicon/lightbulb-o\",\"fa fa-lightbulb-o\"],[\"format_tiles/tileicon/line-chart\",\"fa fa-line-chart\"],[\"format_tiles/tileicon/list\",\"fa fa-list\"],[\"format_tiles/tileicon/list-ol\",\"fa fa-list-ol\"],[\"format_tiles/tileicon/location-arrow\",\"fa fa-location-arrow\"],[\"format_tiles/tileicon/map-marker\",\"fa fa-map-marker\"],[\"format_tiles/tileicon/map-o\",\"fa fa-map-o\"],[\"format_tiles/tileicon/map-signs\",\"fa fa-map-signs\"],[\"format_tiles/tileicon/microphone\",\"fa fa-microphone\"],[\"format_tiles/tileicon/mobile-phone\",\"fa fa-mobile-phone\"],[\"format_tiles/tileicon/mortar-board\",\"fa fa-mortar-board\"],[\"format_tiles/tileicon/music\",\"fa fa-music\"],[\"format_tiles/tileicon/newspaper-o\",\"fa fa-newspaper-o\"],[\"format_tiles/tileicon/pencil-square-o\",\"fa fa-pencil-square-o\"],[\"format_tiles/tileicon/pie-chart\",\"fa fa-pie-chart\"],[\"format_tiles/tileicon/podcast\",\"fa fa-podcast\"],[\"format_tiles/tileicon/puzzle-piece\",\"fa fa-puzzle-piece\"],[\"format_tiles/tileicon/question-circle\",\"fa fa-question-circle\"],[\"format_tiles/tileicon/random\",\"fa fa-random\"],[\"format_tiles/tileicon/refresh\",\"fa fa-refresh\"],[\"format_tiles/tileicon/road\",\"fa fa-road\"],[\"format_tiles/tileicon/search\",\"fa fa-search\"],[\"format_tiles/tileicon/sliders\",\"fa fa-sliders\"],[\"format_tiles/tileicon/smile-o\",\"fa fa-smile-o\"],[\"format_tiles/tileicon/star\",\"fa fa-star\"],[\"format_tiles/tileicon/star-half-o\",\"fa fa-star-half-o\"],[\"format_tiles/tileicon/star-o\",\"fa fa-star-o\"],[\"format_tiles/tileicon/tags\",\"fa fa-tags\"],[\"format_tiles/tileicon/tasks\",\"fa fa-tasks\"],[\"format_tiles/tileicon/television\",\"fa fa-television\"],[\"format_tiles/tileicon/thumbs-o-down\",\"fa fa-thumbs-o-down\"],[\"format_tiles/tileicon/thumbs-o-up\",\"fa fa-thumbs-o-up\"],[\"format_tiles/tileicon/trophy\",\"fa fa-trophy\"],[\"format_tiles/tileicon/umbrella\",\"fa fa-umbrella\"],[\"format_tiles/tileicon/university\",\"fa fa-university\"],[\"format_tiles/tileicon/user-o\",\"fa fa-user-o\"],[\"format_tiles/tileicon/users\",\"fa fa-users\"],[\"format_tiles/tileicon/volume-up\",\"fa fa-volume-up\"],[\"format_tiles/tileicon/wrench\",\"fa fa-wrench\"],[\"format_tiles/camera\",\"fa fa-camera\"],[\"format_tiles/check\",\"fa fa-check\"],[\"format_tiles/chevron-left\",\"fa fa-chevron-left\"],[\"format_tiles/chevron-right\",\"fa fa-chevron-right\"],[\"format_tiles/chevron-up\",\"fa fa-chevron-up\"],[\"format_tiles/clone\",\"fa fa-clone\"],[\"format_tiles/close\",\"fa fa-close\"],[\"format_tiles/cloud-download\",\"fa fa-cloud-download\"],[\"format_tiles/cloud-upload\",\"fa fa-cloud-upload\"],[\"format_tiles/completion-check\",\"fa fa-check\"],[\"format_tiles/completion-fail\",\"fa fa-times\"],[\"format_tiles/eye-slash\",\"fa fa-eye-slash\"],[\"format_tiles/filter\",\"fa fa-filter\"],[\"format_tiles/home\",\"fa fa-home\"],[\"format_tiles/image\",\"fa fa-image\"],[\"format_tiles/lock\",\"fa fa-lock\"],[\"format_tiles/pencil\",\"fa fa-pencil\"],[\"format_tiles/random\",\"fa fa-random\"],[\"format_tiles/sort\",\"fa fa-sort\"],[\"format_tiles/toggle-off\",\"fa fa-toggle-off\"],[\"format_tiles/toggle-on\",\"fa fa-toggle-on\"],[\"gradingform_guide/info\",\"fa fa-circle-info\"],[\"gradingform_guide/plus\",\"fa fa-circle-plus\"],[\"tool_brickfield/f/award\",\"fa fa-trophy\"],[\"tool_brickfield/f/done\",\"fa fa-check\"],[\"tool_brickfield/f/done2\",\"fa fa-check-double\"],[\"tool_brickfield/f/error\",\"fa fa-xmark\"],[\"tool_brickfield/f/find\",\"fa fa-magnifying-glass\"],[\"tool_brickfield/f/form\",\"fa fa-list-check\"],[\"tool_brickfield/f/image\",\"fa fa-image\"],[\"tool_brickfield/f/layout\",\"fa fa-table-cells-large\"],[\"tool_brickfield/f/link\",\"fa fa-link\"],[\"tool_brickfield/f/media\",\"fa fa-photo-film\"],[\"tool_brickfield/f/table\",\"fa fa-table\"],[\"tool_brickfield/f/text\",\"fa fa-font\"],[\"tool_brickfield/f/total\",\"fa fa-calculator\"],[\"tool_lp/url\",\"fa fa-arrow-up-right-from-square\"],[\"tool_policy/agreed\",\"fa fa-check text-success\"],[\"tool_policy/declined\",\"fa fa-xmark text-danger\"],[\"tool_policy/partial\",\"fa fa-triangle-exclamation text-warning\"],[\"tool_policy/pending\",\"fa-regular fa-clock text-warning\"],[\"tool_recyclebin/trash\",\"fa fa-trash-can-arrow-up\"],[\"tool_usertours/i/tour-new\",\"fa fa-file-circle-plus\"],[\"tool_usertours/i/tour-shared\",\"fa fa-share-from-square\"],[\"tool_usertours/i/reload\",\"fa fa-arrow-rotate-right\"],[\"tool_usertours/t/filler\",\"fa fa-spacer\"]]"
+        },
+        {
+          "name": "1844975757/core_str/nextpage/core/es",
+          "value": "Siguiente página"
+        },
+        {
+          "name": "1844975757/core_template/1785161947:edutor/core/loading",
+          "value": "\n\n<span class=\"loading-icon icon-no-margin\">{{#pix}} i/loading, core, {{#str}} loading {{/str}} {{/pix}}</span>\n"
+        },
+        {
+          "name": "1844975757/core_template/1785161947:edutor/core_calendar/event_summary_modal",
+          "value": "\n\n{{< core/modal }}\n    {{$footer}}\n        {{#candelete}}\n            <button type=\"button\" class=\"btn btn-secondary\" data-action=\"delete\">{{#str}} delete {{/str}}</button>\n        {{/candelete}}\n        {{#action.actionable}}\n            <a href=\"{{action.url}}\">{{{action.name}}}</a>\n        {{/action.actionable}}\n        {{^action.actionable}}\n            {{#isactionevent}}\n            <a href=\"{{url}}\">{{#str}} gotoactivity, core_calendar {{/str}}</a>\n            {{/isactionevent}}\n        {{/action.actionable}}\n\n        {{^isactionevent}}\n            {{#canedit}}\n                <button type=\"button\" class=\"btn btn-primary\" data-action=\"edit\">{{#str}} edit {{/str}}</button>\n            {{/canedit}}\n        {{/isactionevent}}\n    {{/footer}}\n{{/ core/modal }}\n"
+        },
+        {
+          "name": "1844975757/core_str/edit/core/es",
+          "value": "Editar"
+        },
+        {
+          "name": "1844975757/core_str/last/core/es",
+          "value": "Último"
+        },
+        {
+          "name": "1844975757/core_template/1785161947:edutor/block_timeline/event-list-loadmore",
+          "value": "\n\n<div class=\"pt-1 pb-2 {{^courseview}}ps-2{{/courseview}}\" data-region=\"more-events-button-container\">\n    <button type=\"button\" class=\"btn btn-secondary btn-sm\" data-action=\"more-events\">\n        {{#str}} moreactivities, block_timeline {{/str}}\n    </button>\n</div>\n"
+        },
+        {
+          "name": "1844975757/core_str/gotoactivity/core_calendar/es",
+          "value": "Ir a la actividad"
+        }
+      ]
+    }
+  ]
+}
